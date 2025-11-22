@@ -1,0 +1,13 @@
+#Keep search
+keepSearch = true
+#Mode used for minecraft containers. 0 = Disabled.
+#Range: 0 ~ 2
+vanillaContainerMode = 1
+#Mode used for non-vanilla containers. 0 = Disabled.
+#Range: 0 ~ 2
+nonVanillaContainerMode = 2
+#List of allowed screens
+allowedScreensList = ["appeng.client.gui.implementations.SkyChestScreen"]
+#List of denied screens
+deniedScreensList = [""]
+

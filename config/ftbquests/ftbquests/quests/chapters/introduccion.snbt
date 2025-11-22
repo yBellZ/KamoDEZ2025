@@ -1,0 +1,57 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "introduccion"
+	group: "67C59664C0072494"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "minecraft:book"
+	}
+	id: "677040C624039F65"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: [
+			"Controles default de acciones de minecraft (eres libre de cambiarlo a tu gusto)"
+			""
+			"- Manten precionado la tecla [C] para activar el zoom"
+			"- Manten precionado la tecla [V] para agacharte y pasar por un hueco de 1x1"
+			"- Preciona la tecla [M] para mirar el mapa del mundo"
+			"- Preciona la letra [O] para desplegar el apartado de Shaders"
+			"-"
+			"-"
+			"-"
+			"-"
+			"-"
+		]
+		id: "26E05AB20A8A0A42"
+		rewards: [{
+			count: 20
+			id: "5F48FF9FD8E23447"
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:oak_log"
+			}
+			type: "item"
+		}]
+		subtitle: "Controles Principales"
+		tasks: [{
+			id: "26DE4E6E301C5867"
+			type: "checkmark"
+		}]
+		title: "Controles"
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Introduccion"
+}

@@ -1,0 +1,87 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "capitulo_ll_primer_sello_roto"
+	group: "67C59664C0072494"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "minecraft:fire_charge"
+	}
+	id: "1E106EE327E28FC3"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["452FBBBB95BFB6CC"]
+			description: [
+				"TU "
+				"—Queeeeee oye que calor hace aquí, quema quema. "
+				""
+				"De verdad no se que estoy haciendo con mi vida no sé en qué momento, acepté que me pasaran todas estas cosas, el padre tenía razón, no quiero estar aquí."
+				""
+				"Dios dios dios tranquilízate  @p es el infierno donde estamos es normal que te sientas así enserio que sensación tan rara pensé que estaban exagerando me esta quemando el alma no me esta quemando el fuego."
+				""
+				"Bueno, le hablaré a ese cerdito que está alla, se ve buena persona dentro de lo que cabe."
+			]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "irons_spellbooks:fire_upgrade_orb"
+			}
+			id: "35D013B597CDE8D6"
+			rewards: [{
+				auto: "invisible"
+				command: "/say TU —Queeeeee oye que calor hace aquí, quema quema. De verdad no se que estoy haciendo con mi vida no sé en qué momento, acepté que me pasaran todas estas cosas, el padre tenía razón, no quiero estar aquí.Dios dios dios tranquilízate  @p es el infierno donde estamos es normal que te sientas así enserio que sensación tan rara pensé que estaban exagerando me esta quemando el alma no me esta quemando el fuego.Bueno, le hablaré a ese cerdito que está alla, se ve buena persona dentro de lo que cabe."
+				id: "7D331F72045CCF4A"
+				type: "command"
+			}]
+			subtitle: "Llega al infierno "
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "461C06D59BCAB848"
+				title: "ENTRA AL INFIERNO"
+				type: "dimension"
+			}]
+			title: "PRIMER SELLO ROTO"
+			x: -3.5238095238095326d
+			y: 0.8214285714285765d
+		}
+		{
+			dependencies: ["35D013B597CDE8D6"]
+			description: [
+				""
+				"HOLA VIAJER@, HAZ LLEGADO A LA ULTIMA MISIÓN PRINCIPAL QUE HE CREADO EN ESTA ACTUALIZACION."
+				""
+				"Espero que te haya gustado esta introduccion a la historia del mundo de perfection, estate atento a las futuras actualizaciones que tenga este proyecto donde vamos a agregar mas misiones y muchas cosas más."
+				""
+				"Puedes encontrar más información en mi &3discord&r o en mi canal de &cyoutube&r, ahi estaré avisando como va avanzando este proyecto. "
+				""
+				"&ePOR CIERTO SI QUIERES AYUDAR AL PROYECTO CON ALGO PUEDES APOYARNOS EN PATREON, ESTO NOS ESTÁ AYUDANDO A MEJORAR MUCHO EL PROYECTO Y PODER DARLES LA POSIBILIDAD DE BRINDARLES SERVIDORES GRATUITOS DE PERFECTION A NUESTRA COMUNIDAD "
+				""
+				""
+				"&npuedes encontrar los links en mi canal&r &cAngel Lozano&r"
+			]
+			id: "792F94CAC2C75F43"
+			tasks: [{
+				id: "727A5F59F9AD6F9E"
+				title: "ACTUALIZACION 3"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+	]
+	title: " Capitulo II Primer sello roto"
+}

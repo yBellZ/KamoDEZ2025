@@ -1,0 +1,63 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "nether"
+	group: "284FBAB6D4C07B3C"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "irons_spellbooks:diamond_spell_book"
+		tag: {
+			ISB_Spells: {
+				data: [ ]
+				maxSpells: 10
+				mustEquip: 1b
+				spellWheel: 1b
+			}
+		}
+	}
+	id: "794177BD759D2A0F"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		can_repeat: true
+		id: "0B170A3F6463555F"
+		rewards: [{
+			count: 6
+			id: "1CAB288D3FF26561"
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "irons_spellbooks:hogskin"
+			}
+			random_bonus: 4
+			type: "item"
+		}]
+		tasks: [{
+			entity: "minecraft:hoglin"
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "butchersdelight:deadhoglin"
+			}
+			id: "6007FD137F65E4B1"
+			type: "kill"
+			value: 5L
+		}]
+		x: 0.0d
+		y: 3.0d
+	}]
+	title: "Items"
+}

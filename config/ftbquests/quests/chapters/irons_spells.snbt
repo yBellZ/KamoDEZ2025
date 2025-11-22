@@ -1,0 +1,58 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "irons_spells"
+	group: "5AFBEBD33EED4DC9"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "irons_spellbooks:ruined_book"
+	}
+	id: "297D4712DA664589"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "7E2BC1228B61BC89"
+		rewards: [
+			{
+				id: "42854B5E3B3B57AC"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "irons_spellbooks:silver_ring"
+				}
+				type: "item"
+			}
+			{
+				id: "0682DB02A81A831E"
+				type: "xp"
+				xp: 25
+			}
+		]
+		tasks: [{
+			count: 10L
+			id: "05F4A4DE66F27FE9"
+			item: {
+				Count: 10
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "irons_spellbooks:arcane_essence"
+			}
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Iron's Spells"
+}

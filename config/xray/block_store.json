@@ -1,0 +1,289 @@
+[
+  {
+    "name": "Minério de Cobre de Ardosiabissal",
+    "blockName": "minecraft:deepslate_copper_ore",
+    "order": 23,
+    "color": 190904,
+    "drawing": false
+  },
+  {
+    "name": "Minério de esmeralda de pedra-sculk",
+    "blockName": "deeperdarker:sculk_stone_emerald_ore",
+    "order": 5,
+    "color": 12758897,
+    "drawing": false
+  },
+  {
+    "name": "Minério de esmeralda de ardósia resinada",
+    "blockName": "deeperdarker:gloomslate_emerald_ore",
+    "order": 13,
+    "color": 1832294,
+    "drawing": false
+  },
+  {
+    "name": "Minério de Diamante de Ardosiabissal",
+    "blockName": "minecraft:deepslate_diamond_ore",
+    "order": 25,
+    "color": 6086535,
+    "drawing": false
+  },
+  {
+    "name": "Minério de Esmeralda de Ardosiabissal",
+    "blockName": "minecraft:deepslate_emerald_ore",
+    "order": 27,
+    "color": 6918701,
+    "drawing": false
+  },
+  {
+    "name": "Minério de Diamante",
+    "blockName": "minecraft:diamond_ore",
+    "order": 24,
+    "color": 11661672,
+    "drawing": false
+  },
+  {
+    "name": "Minério de ferro de pedra-sculk",
+    "blockName": "deeperdarker:sculk_stone_iron_ore",
+    "order": 1,
+    "color": 4991257,
+    "drawing": false
+  },
+  {
+    "name": "Minério de Lápis-lazúli",
+    "blockName": "minecraft:lapis_ore",
+    "order": 33,
+    "color": 2636889,
+    "drawing": false
+  },
+  {
+    "name": "Deepslate Moonstone Ore",
+    "blockName": "soulsweapons:moonstone_ore_deepslate",
+    "order": 17,
+    "color": 11535361,
+    "drawing": false
+  },
+  {
+    "name": "Minério de carvão de ardósia resinada",
+    "blockName": "deeperdarker:gloomslate_coal_ore",
+    "order": 8,
+    "color": 10805253,
+    "drawing": false
+  },
+  {
+    "name": "Verglas Ore",
+    "blockName": "soulsweapons:verglas_ore",
+    "order": 18,
+    "color": 9149543,
+    "drawing": false
+  },
+  {
+    "name": "Detritos Ancestrais",
+    "blockName": "minecraft:ancient_debris",
+    "order": 38,
+    "color": 14689235,
+    "drawing": false
+  },
+  {
+    "name": "Minério de cobre de ardósia resinada",
+    "blockName": "deeperdarker:gloomslate_copper_ore",
+    "order": 10,
+    "color": 15983449,
+    "drawing": false
+  },
+  {
+    "name": "Minério de Ouro do Nether",
+    "blockName": "minecraft:nether_gold_ore",
+    "order": 29,
+    "color": 11116216,
+    "drawing": false
+  },
+  {
+    "name": "Minério de Cobre",
+    "blockName": "minecraft:copper_ore",
+    "order": 22,
+    "color": 4497256,
+    "drawing": false
+  },
+  {
+    "name": "Minério de lápis-lazúli de ardósia resinada",
+    "blockName": "deeperdarker:gloomslate_lapis_ore",
+    "order": 14,
+    "color": 10465399,
+    "drawing": false
+  },
+  {
+    "name": "Minério de diamante de pedra-sculk",
+    "blockName": "deeperdarker:sculk_stone_diamond_ore",
+    "order": 7,
+    "color": 10763346,
+    "drawing": false
+  },
+  {
+    "name": "Minério de Ferro de Ardosiabissal",
+    "blockName": "minecraft:deepslate_iron_ore",
+    "order": 32,
+    "color": 4538639,
+    "drawing": false
+  },
+  {
+    "name": "Minério de Redstone",
+    "blockName": "minecraft:redstone_ore",
+    "order": 35,
+    "color": 6792545,
+    "drawing": false
+  },
+  {
+    "name": "Minério de Carvão",
+    "blockName": "minecraft:coal_ore",
+    "order": 20,
+    "color": 880110,
+    "drawing": false
+  },
+  {
+    "name": "Moonstone Ore",
+    "blockName": "soulsweapons:moonstone_ore",
+    "order": 16,
+    "color": 1561942,
+    "drawing": false
+  },
+  {
+    "name": "Minério de lápis-lazúli de pedra-sculk",
+    "blockName": "deeperdarker:sculk_stone_lapis_ore",
+    "order": 6,
+    "color": 100045,
+    "drawing": false
+  },
+  {
+    "name": "Minério de Carvão de Ardosiabissal",
+    "blockName": "minecraft:deepslate_coal_ore",
+    "order": 21,
+    "color": 10016498,
+    "drawing": false
+  },
+  {
+    "name": "Minério de redstone de ardósia resinada",
+    "blockName": "deeperdarker:gloomslate_redstone_ore",
+    "order": 12,
+    "color": 10191116,
+    "drawing": false
+  },
+  {
+    "name": "Minério de Ouro",
+    "blockName": "minecraft:gold_ore",
+    "order": 28,
+    "color": 8313976,
+    "drawing": false
+  },
+  {
+    "name": "Minério de ouro de ardósia resinada",
+    "blockName": "deeperdarker:gloomslate_gold_ore",
+    "order": 11,
+    "color": 1357285,
+    "drawing": false
+  },
+  {
+    "name": "Minério de Redstone de Ardosiabissal",
+    "blockName": "minecraft:deepslate_redstone_ore",
+    "order": 36,
+    "color": 12146550,
+    "drawing": false
+  },
+  {
+    "name": "Deepslate Verglas Ore",
+    "blockName": "soulsweapons:verglas_ore_deepslate",
+    "order": 19,
+    "color": 12246642,
+    "drawing": false
+  },
+  {
+    "name": "Minério de Quartzo do Nether",
+    "blockName": "minecraft:nether_quartz_ore",
+    "order": 37,
+    "color": 6706834,
+    "drawing": false
+  },
+  {
+    "name": "Minério de Lápis-lazúli de Ardosiabissal",
+    "blockName": "minecraft:deepslate_lapis_ore",
+    "order": 34,
+    "color": 950067,
+    "drawing": false
+  },
+  {
+    "name": "Minério de cobre de pedra-sculk",
+    "blockName": "deeperdarker:sculk_stone_copper_ore",
+    "order": 2,
+    "color": 6969675,
+    "drawing": false
+  },
+  {
+    "name": "Minério de redstone de pedra-sculk",
+    "blockName": "deeperdarker:sculk_stone_redstone_ore",
+    "order": 4,
+    "color": 1792535,
+    "drawing": false
+  },
+  {
+    "name": "Minério de Ferro",
+    "blockName": "minecraft:iron_ore",
+    "order": 31,
+    "color": 5500562,
+    "drawing": false
+  },
+  {
+    "name": "Minério de Ouro de Ardosiabissal",
+    "blockName": "minecraft:deepslate_gold_ore",
+    "order": 30,
+    "color": 8255504,
+    "drawing": false
+  },
+  {
+    "name": "Bloco de Ametista",
+    "blockName": "minecraft:amethyst_block",
+    "order": 40,
+    "color": 42495,
+    "drawing": true
+  },
+  {
+    "name": "Minério de carvão de pedra-sculk",
+    "blockName": "deeperdarker:sculk_stone_coal_ore",
+    "order": 0,
+    "color": 6730481,
+    "drawing": false
+  },
+  {
+    "name": "Minério de diamante de ardósia resinada",
+    "blockName": "deeperdarker:gloomslate_diamond_ore",
+    "order": 15,
+    "color": 14083489,
+    "drawing": false
+  },
+  {
+    "name": "Drusa de Ametista",
+    "blockName": "minecraft:budding_amethyst",
+    "order": 41,
+    "color": 42495,
+    "drawing": true
+  },
+  {
+    "name": "Minério de ouro de pedra-sculk",
+    "blockName": "deeperdarker:sculk_stone_gold_ore",
+    "order": 3,
+    "color": 4321186,
+    "drawing": false
+  },
+  {
+    "name": "Minério de Esmeralda",
+    "blockName": "minecraft:emerald_ore",
+    "order": 26,
+    "color": 5756964,
+    "drawing": false
+  },
+  {
+    "name": "Minério de ferro de ardósia resinada",
+    "blockName": "deeperdarker:gloomslate_iron_ore",
+    "order": 9,
+    "color": 8393649,
+    "drawing": false
+  }
+]

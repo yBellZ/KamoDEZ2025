@@ -1,0 +1,8 @@
+type = user_variables
+
+variable {
+  name = title_screen
+  value = mc_titlescreen_singleplayer_button
+  reset_on_launch = false
+}
+

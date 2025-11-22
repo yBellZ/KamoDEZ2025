@@ -1,0 +1,3206 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "nether"
+	group: "284FBAB6D4C07B3C"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "irons_spellbooks:diamond_spell_book"
+		tag: {
+			ISB_Spells: {
+				data: [ ]
+				maxSpells: 10
+				mustEquip: 1b
+				spellWheel: 1b
+			}
+		}
+	}
+	id: "794177BD759D2A0F"
+	images: [
+		{
+			dependency: "585F56931944727A"
+			height: 1.0d
+			image: "minecraft:item/iron_hoe"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 11.5d
+		}
+		{
+			dependency: "585F56931944727A"
+			height: 1.0d
+			image: "minecraft:block/furnace_front_on"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: 11.5d
+		}
+		{
+			dependency: "585F56931944727A"
+			height: 1.0d
+			image: "minecraft:item/hypixel/crafting_arrow"
+			rotation: 90.0d
+			width: 1.0d
+			x: 5.0d
+			y: 12.5d
+		}
+		{
+			dependency: "585F56931944727A"
+			height: 1.0d
+			image: "minecraft:item/hypixel/crafting_arrow"
+			rotation: 90.0d
+			width: 1.0d
+			x: 10.0d
+			y: 12.5d
+		}
+		{
+			dependency: "3B839E1D97389840"
+			height: 2.0d
+			image: "minecraft:block/farmland_moist"
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.002380952380982d
+			y: 21.012585034013632d
+		}
+		{
+			dependency: "71514722415DA6E5"
+			height: 2.0d
+			image: "minecraft:block/farmland_moist"
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.002380952380982d
+			y: 22.726870748299348d
+		}
+		{
+			dependency: "3B839E1D97389840"
+			height: 2.0d
+			image: "regions_unexplored:block/alpha_oak_log_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.2948979591837073d
+			y: 21.015986394557835d
+		}
+		{
+			dependency: "3B839E1D97389840"
+			height: 2.0d
+			image: "regions_unexplored:block/alpha_oak_log_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.2948979591837073d
+			y: 19.30170068027212d
+		}
+		{
+			dependency: "3B839E1D97389840"
+			height: 2.0d
+			image: "regions_unexplored:block/alpha_oak_log_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.009183673469423d
+			y: 19.30170068027212d
+		}
+		{
+			dependency: "3B839E1D97389840"
+			height: 2.0d
+			image: "regions_unexplored:block/alpha_oak_log_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.716666666666704d
+			y: 19.298299319727924d
+		}
+		{
+			dependency: "3B839E1D97389840"
+			height: 2.0d
+			image: "regions_unexplored:block/alpha_oak_log_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.716666666666697d
+			y: 21.01258503401364d
+		}
+		{
+			dependency: "71514722415DA6E5"
+			height: 2.0d
+			image: "regions_unexplored:block/alpha_oak_log_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.2972789115645966d
+			y: 22.726020408163286d
+		}
+		{
+			dependency: "71514722415DA6E5"
+			height: 2.0d
+			image: "regions_unexplored:block/alpha_oak_log_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.723469387755117d
+			y: 22.72687074829937d
+		}
+		{
+			dependency: "6B10CABA16ED7FDE"
+			height: 2.0d
+			image: "minecraft:block/farmland_moist"
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.005102040816318d
+			y: 24.443367346938828d
+		}
+		{
+			dependency: "6B10CABA16ED7FDE"
+			height: 2.0d
+			image: "regions_unexplored:block/alpha_oak_log_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.2972789115645966d
+			y: 24.440306122448995d
+		}
+		{
+			dependency: "6B10CABA16ED7FDE"
+			height: 2.0d
+			image: "regions_unexplored:block/alpha_oak_log_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.715986394557817d
+			y: 24.446768707483017d
+		}
+		{
+			dependency: "4B1E22D38F9843B3"
+			height: 2.0d
+			image: "minecraft:block/farmland_moist"
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.010204081632622d
+			y: 26.1624149659864d
+		}
+		{
+			dependency: "4B1E22D38F9843B3"
+			height: 2.0d
+			image: "regions_unexplored:block/alpha_oak_log_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.2972789115645966d
+			y: 26.15459183673471d
+		}
+		{
+			dependency: "4B1E22D38F9843B3"
+			height: 2.0d
+			image: "regions_unexplored:block/alpha_oak_log_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.724489795918352d
+			y: 26.148809523809533d
+		}
+		{
+			dependency: "633A7DAC7A0FB856"
+			height: 2.0d
+			image: "regions_unexplored:block/alpha_oak_log_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.3040816326530376d
+			y: 27.879081632653083d
+		}
+		{
+			dependency: "633A7DAC7A0FB856"
+			height: 2.0d
+			image: "regions_unexplored:block/alpha_oak_log_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.710884353741484d
+			y: 27.86309523809524d
+		}
+		{
+			dependency: "633A7DAC7A0FB856"
+			height: 2.0d
+			image: "minecraft:block/farmland_moist"
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.996598639455769d
+			y: 27.873299319727877d
+		}
+		{
+			dependency: "60F7AD3EFD2C0E83"
+			height: 2.0d
+			image: "minecraft:block/farmland_moist"
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.0037414965986216d
+			y: 29.590646258503398d
+		}
+		{
+			dependency: "60F7AD3EFD2C0E83"
+			height: 2.0d
+			image: "regions_unexplored:block/alpha_oak_log_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.311904761904735d
+			y: 29.585884353741505d
+		}
+		{
+			dependency: "60F7AD3EFD2C0E83"
+			height: 2.0d
+			image: "regions_unexplored:block/alpha_oak_log_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.720068027210857d
+			y: 29.565476190476218d
+		}
+		{
+			dependency: "60F7AD3EFD2C0E83"
+			height: 2.0d
+			image: "regions_unexplored:block/alpha_oak_log_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.311904761904742d
+			y: 31.300170068027228d
+		}
+		{
+			dependency: "60F7AD3EFD2C0E83"
+			height: 2.0d
+			image: "regions_unexplored:block/alpha_oak_log_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.720068027210864d
+			y: 31.279761904761912d
+		}
+		{
+			dependency: "60F7AD3EFD2C0E83"
+			height: 2.0d
+			image: "regions_unexplored:block/alpha_oak_log_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.005782312925156d
+			y: 31.279761904761912d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["559795199C5F9731"]
+			description: ["—Dios que hambre tengo, tengo que comer algo sea como sea."]
+			hide_text_until_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "farm_and_charm:lamb_ham"
+			}
+			id: "0B170A3F6463555F"
+			rewards: [{
+				auto: "enabled"
+				command: "/say —Dios que hambre tengo, tengo que comer algo sea como sea."
+				id: "1D05A6C132EF586B"
+				type: "command"
+			}]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "545ACC3CDA30ED48"
+				type: "dimension"
+			}]
+			title: "Grrrrr.."
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0B170A3F6463555F"]
+			description: [
+				"tienes que matar a un animal, ponerlo en el suelo y con un cuchillo le das clic derecho sobre el animal."
+				""
+				"&6Con solo conseguir una chuleta se completa la misión.&r"
+			]
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "aquaculture:stone_fillet_knife"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "2A730E72CA840A94"
+			rewards: [{
+				count: 6
+				id: "2E1DFF5A3FDAAE3D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:coal"
+				}
+				type: "item"
+			}]
+			subtitle: "COMPLETA PARA SEGUIR CON LA HISTORIA"
+			tasks: [
+				{
+					id: "1DE0333E179EA93F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:beef"
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "2857C623040FCE76"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "butchersdelightfoods:porkloin"
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "243A7E1A01BFDCF5"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "butchersdelightfoods:sheepshank"
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "4FA23967C9AFF4E9"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "butchersdelightfoods:legcow"
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "3FE4703DD80585F4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:porkchop"
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "49842076A8B1AB6C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:mutton"
+					}
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "A comer"
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2A730E72CA840A94"]
+			description: ["—Bien, con esto puedo soportar el frío esta noche, además puedo cocinar la carne que acabo de conseguir."]
+			id: "68797C67217EC085"
+			rewards: [{
+				auto: "enabled"
+				command: "/say —Bien, con esto puedo soportar el frío esta noche, además puedo cocinar la carne que acabo de conseguir."
+				id: "0A85E771F4AD85E6"
+				type: "command"
+			}]
+			subtitle: "coloca la hoguera para cocinar"
+			tasks: [{
+				advancement: "farmersdelight:main/place_campfire"
+				criterion: ""
+				id: "3B500ECD8C2D222A"
+				type: "advancement"
+			}]
+			title: "Todo es mejor caliente"
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["68797C67217EC085"]
+			description: [
+				"Tala 10 troncos de madera"
+				""
+				"&6Recolecta solo 10 troncos de un tipo de madera para que la mision se complete&r"
+			]
+			disable_toast: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:oak_log"
+				tag: {
+					"minecraft:logs": [ ]
+					"minecraft:oak_log": { }
+				}
+			}
+			id: "741E5109686630C9"
+			rewards: [{
+				auto: "enabled"
+				command: "/say —Bueno, de algo me van a servir estos troncos"
+				id: "449308F05A7C4F52"
+				type: "command"
+			}]
+			subtitle: "Tala madera"
+			tasks: [
+				{
+					count: 10L
+					id: "4E434B9695BBE0DA"
+					item: {
+						Count: 10
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:birch_log"
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "2187FE3E1ABF856A"
+					item: {
+						Count: 10
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:spruce_log"
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "55BB2E065963AEFE"
+					item: {
+						Count: 10
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:jungle_log"
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "64BCF26794CF29F6"
+					item: {
+						Count: 10
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:oak_log"
+					}
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "Madera maderita"
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["741E5109686630C9"]
+			id: "1F396333DAAC81BB"
+			rewards: [{
+				auto: "enabled"
+				command: "/say —Un poco rústico, pero al menos ya tengo algo."
+				id: "0D3CE66086172993"
+				type: "command"
+			}]
+			subtitle: "Craftea un pico de madera"
+			tasks: [{
+				id: "11C120A6E9B15169"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:wooden_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: true
+				type: "item"
+			}]
+			title: "Con esto ya puedo"
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4EE6025D967FB98A"]
+			description: ["¡Wow qué es esto! Aquí dice que puedo llegar de punta a punta con solo tocar esta cosa."]
+			disable_toast: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "waystones:waystone"
+			}
+			id: "2F0955CF8022CEA8"
+			rewards: [{
+				auto: "enabled"
+				command: "/say ¡Wow qué es esto! Aquí dice que puedo llegar de punta a punta con solo tocar esta cosa."
+				id: "4C54B09760460BC7"
+				type: "command"
+			}]
+			subtitle: "Interactúa con un waystone"
+			tasks: [
+				{
+					disable_toast: true
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "waystones:waystone"
+					}
+					id: "04446FB9074CA47C"
+					observe_type: 0
+					optional_task: true
+					timer: 0L
+					to_observe: "waystones:waystone"
+					type: "observation"
+				}
+				{
+					disable_toast: true
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "waystones:sandy_waystone"
+					}
+					id: "55042C62EE5D2107"
+					observe_type: 0
+					optional_task: true
+					timer: 0L
+					to_observe: "waystones:sandy_waystone"
+					type: "observation"
+				}
+				{
+					disable_toast: true
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "waystones:mossy_waystone"
+					}
+					id: "64E4A69754216BD7"
+					observe_type: 0
+					optional_task: true
+					timer: 0L
+					to_observe: "waystones:mossy_waystone"
+					type: "observation"
+				}
+			]
+			title: "¡Vaya que rápido!"
+			x: 7.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1F396333DAAC81BB"]
+			description: ["—Perdonenme, necesito comer y cubrirme, yo también tengo frio."]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "4EE6025D967FB98A"
+			rewards: [
+				{
+					count: 12
+					id: "06A53A9D537CF7C1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:leather"
+					}
+					type: "item"
+				}
+				{
+					auto: "enabled"
+					command: "/say —Perdonenme, necesito comer y cubrirme, yo también tengo frio."
+					id: "52F4AEF3C8CD399F"
+					type: "command"
+				}
+			]
+			tasks: [
+				{
+					entity: "minecraft:cow"
+					id: "4D25CB7EADB5BB53"
+					type: "kill"
+					value: 3L
+				}
+				{
+					entity: "minecraft:pig"
+					id: "4F6C902327E0019D"
+					type: "kill"
+					value: 2L
+				}
+				{
+					entity: "minecraft:chicken"
+					id: "0E0338A05B6DAED2"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "!Se está volviendo salvaje¡"
+			x: 5.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4EE6025D967FB98A"]
+			description: ["—Ahora si me siento seguro"]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "66DA17FD3A5831A8"
+			rewards: [
+				{
+					id: "116D1F1D1CE1CE59"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					auto: "enabled"
+					command: "/say —Ahora si me siento seguro"
+					id: "436146C766DFA27B"
+					type: "command"
+				}
+			]
+			subtitle: "Craftea botas y pechera"
+			tasks: [
+				{
+					id: "0CC93BA49EC55AF5"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:leather_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					id: "1945C7A755985397"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:leather_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			title: "!Estoy listo estoy listo¡"
+			x: 7.5d
+			y: 4.5d
+		}
+		{
+			description: ["¡ESTOS ÁRBOLES SON HERMOSOS!"]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "biomeswevegone:blooming_witch_hazel_leaves"
+			}
+			id: "41783A06653CEE2B"
+			rewards: [{
+				auto: "enabled"
+				command: "/say ¡ESTOS ARBOLES SON HERMOSOS!"
+				id: "580A49D8B31E527B"
+				type: "command"
+			}]
+			tasks: [{
+				biome: "biomeswevegone:weeping_witch_forest"
+				id: "4CA7A6A513C9497B"
+				type: "biome"
+			}]
+			title: "Hojas bonitas"
+			x: 7.5d
+			y: 0.5d
+		}
+		{
+			description: [
+				"—¡Pero mira con que me vengo a encontrar! "
+				"MENDIGOA"
+				"ay, ay, ay… No muy arre. ¿carnal, no tendrás una esmeralda por ahí? Estoy más tronado que una espada de madera. Un poquito de ayuda no me caería mal."
+			]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "evenmoreinstruments:banjo_note_block_instrument"
+			}
+			id: "1D6CE422EF15D713"
+			rewards: [
+				{
+					auto: "enabled"
+					count: 2
+					id: "4FAB8C0C99BFF62D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					auto: "enabled"
+					command: "/say TÚ—¡Pero mira con que me vengo a encontrar! MENDIGO  Ay, ay, ay… No muy arre. ¿carnal, no tendrás una esmeralda por ahí? Estoy más tronado que una espada de madera. Un poquito de ayuda no me caería mal, espero que no me la quiten."
+					id: "11833E81AB3F75AD"
+					team_reward: false
+					type: "command"
+				}
+			]
+			subtitle: "Encuentra un beggars:villager_beggar"
+			tasks: [{
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:rotten_flesh"
+				}
+				id: "22A3F568FD85F27C"
+				observe_type: 5
+				timer: 30L
+				title: "Habla con el beggar"
+				to_observe: "beggars:villager_beggar"
+				type: "observation"
+			}]
+			title: "Pobrecito"
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["66DA17FD3A5831A8"]
+			description: ["consigue minerales "]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "00AD2A4141A88AA8"
+			rewards: [{
+				id: "6380DAE1F24E01DC"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			subtitle: "Craftea botas y pechera"
+			tasks: [
+				{
+					count: 48L
+					id: "34345D19FED0EE82"
+					item: {
+						Count: 36
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "6B17CE2C91B6A56E"
+					item: {
+						Count: 5
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					count: 24L
+					id: "39A726A508590CC3"
+					item: {
+						Count: 24
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:coal"
+					}
+					type: "item"
+				}
+			]
+			title: "¡Necesito dinero!"
+			x: 10.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["00AD2A4141A88AA8"]
+			description: ["—Verdaderamente necesitaba esto, es muy incomodo tener que estar cargando todo en mis bolsas"]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "sophisticatedbackpacks:backpack"
+			}
+			id: "0BC5803C7D42C4EE"
+			rewards: [{
+				auto: "enabled"
+				command: "/say —Verdaderamente necesitaba esto, es muy incomodo tener que estar cargando todo en mis bolsas"
+				id: "6134531F8CA43C94"
+				type: "command"
+			}]
+			subtitle: "craftea una mochila "
+			tasks: [{
+				id: "6E035397B2EBAD03"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "sophisticatedbackpacks:backpack"
+				}
+				only_from_crafting: true
+				type: "item"
+			}]
+			title: "!No puedo más¡"
+			x: 11.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4720CA3463C251AF"]
+			description: ["—Cool, un lugar donde quedarme a dormir, se ve muy acogedor este lugar, oye qué es eso que se está moviendo por ahí, dios es una rana ¿Estas son las ranas de las que me habrá  hablado el bibliotecario? Iré a hablar con una."]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:frog_spawn_egg"
+			}
+			id: "5A79D34D77AF7C7F"
+			rewards: [{
+				auto: "enabled"
+				command: "/say —Cool, un lugar donde quedarme a dormir, se ve muy acogedor este lugar, oye qué es eso que se está moviendo por ahí, dios es una rana ¿Estas son las ranas de las que me habrá  hablado el bibliotecario? Iré a hablar con una."
+				id: "7BAF21CD367F95EB"
+				type: "command"
+			}]
+			subtitle: "Encuentra una aldea de las ranas &e ribbits:ribbit_village"
+			tasks: [{
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:frog_spawn_egg"
+				}
+				id: "3278C0FBDD7A8015"
+				structure: "ribbits:ribbit_village"
+				title: "Encontraste la aldea de las ranas"
+				type: "structure"
+			}]
+			title: "Mejor afuera que adentro"
+			x: 13.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5A79D34D77AF7C7F"]
+			description: [
+				"— Hola pequeñín donde estamos"
+				""
+				"RANA"
+				"— A quién llamas pequeñín eh. Primero que nada, soy una dama."
+				"señor/señora no se que animal sea usted. Me puedes decir May."
+				""
+				"TU"
+				"—Tienes razón May, perdón no pude distinguir tu sexo, yo me llamo @p"
+				""
+				"May"
+				"—Mucho gusto @p  ¿Que te trae por aquí?"
+				""
+				"TU"
+				"— Estoy buscando como salir de este mundo, ¿De casualidad tu no sabes como salir?"
+				""
+				"May "
+				"— Vaya que cool ¿Salir de este mundo? ¿Qué canción es esa? "
+			]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:frog_spawn_egg"
+			}
+			id: "24E12D7DD88E9FDE"
+			rewards: [{
+				auto: "enabled"
+				command: "/say — Hola pequeñín donde estamosRANA— A quién llamas pequeñín eh. Primero que nada, soy una dama.señor/señora no se que animal sea usted. Me puedes decir May.TU—Tienes razón May, perdón no pude distinguir tu sexo, yo me llamo @pMay—Mucho gusto @p  ¿Que te trae por aquí?TU— Estoy buscando como salir de este mundo, ¿De casualidad tu no sabes como salir?May — Vaya que cool ¿Salir de este mundo? ¿Qué canción es esa? "
+				id: "689B16E7288CE2F7"
+				type: "command"
+			}]
+			subtitle: "Habla con una rana "
+			tasks: [{
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:frog_spawn_egg"
+				}
+				id: "6F6DCBBA8BD9601F"
+				observe_type: 5
+				timer: 50L
+				title: "Habla con la rana"
+				to_observe: "ribbits:ribbit"
+				type: "observation"
+			}]
+			title: "¿Qué es eso que escucho?"
+			x: 13.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["24E12D7DD88E9FDE"]
+			description: [
+				"May "
+				"— Me encantaría seguir hablando contigo @p, pero tengo prisa, tengo que ir a tocar con unos amigos, espero que puedas encontrar tu canción. "
+				"¡NOS VEMOS!"
+				""
+				"TU"
+				"—El bibliotecario no me mintió, si dan escalofríos y lo peor es que no me contestó mi pregunta. "
+			]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:frog_spawn_egg"
+			}
+			id: "70EA1C8CCCF6073B"
+			rewards: [{
+				auto: "enabled"
+				command: "/say May — Me encantaría seguir hablando contigo @p, pero tengo prisa, tengo que ir a tocar con unos amigos, espero que puedas encontrar tu canción. ¡NOS VEMOS!TU—El bibliotecario no me mintió, si dan escalofríos y lo peor es que no me contestó mi pregunta. "
+				id: "61B897EE933CD9D9"
+				type: "command"
+			}]
+			subtitle: "Habla con una rana "
+			tasks: [{
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:frog_spawn_egg"
+				}
+				id: "49FF48BB0F1D5435"
+				observe_type: 5
+				timer: 20L
+				title: "SIGUE HABLANDO CON LA RANA"
+				to_observe: "ribbits:ribbit"
+				type: "observation"
+			}]
+			title: "Qué escalofríos"
+			x: 13.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4EE6025D967FB98A"]
+			description: [
+				"—Que extraño artefacto.."
+				""
+				""
+				"AQUI PUEDES MEJORAR TUS ATRIBUTOS"
+				"DANDO &aSPIRIT ORB&r"
+				""
+				"&6ESTAS ORBES TE LAS DROPEARÁN ALGUNOS JEFES O MOBS DEL MUNDO.&r"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "paraglider:goron_goddess_statue"
+			}
+			id: "08390A8F39EE675C"
+			rewards: [{
+				auto: "enabled"
+				command: "/say —Que extraño artefacto..AQUI PUEDES MEJORAR TUS ATRIBUTOSDANDO SPIRIT ORBESTAS ORBES TE LAS DROPEARÁN ALGUNOS JEFES O MOBS DEL MUNDO."
+				id: "5334FA9E0D8C18F3"
+				type: "command"
+			}]
+			subtitle: "Interactúa con un waystone"
+			tasks: [
+				{
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "paraglider:goddess_statue"
+					}
+					id: "450D0B3CCF20B4A1"
+					observe_type: 0
+					optional_task: true
+					timer: 0L
+					to_observe: "paraglider:goddess_statue"
+					type: "observation"
+				}
+				{
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "paraglider:kakariko_goddess_statue"
+					}
+					id: "44FA5642A3954FC7"
+					observe_type: 0
+					optional_task: true
+					timer: 0L
+					to_observe: "paraglider:kakariko_goddess_statue"
+					type: "observation"
+				}
+				{
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "paraglider:goron_goddess_statue"
+					}
+					id: "3B345AB56B5D8803"
+					observe_type: 0
+					optional_task: true
+					timer: 0L
+					to_observe: "paraglider:goron_goddess_statue"
+					type: "observation"
+				}
+				{
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "paraglider:rito_goddess_statue"
+					}
+					id: "224033F10B8C552F"
+					observe_type: 0
+					optional_task: true
+					timer: 0L
+					to_observe: "paraglider:rito_goddess_statue"
+					type: "observation"
+				}
+			]
+			title: "Que fuerte"
+			x: 7.5d
+			y: 7.5d
+		}
+		{
+			description: [
+				"ESTA ESTATUA ALMACENA LA &cESENCIA&r, SI TE EQUIVOCAS DE ATRIBUTO Y MEJORASTE OTRO POR ACCIDENTE"
+				"PUEDES INTERCAMBIARLO &aADICIONANDO ESMERALDAS"
+			]
+			disable_toast: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "paraglider:goron_goddess_statue"
+			}
+			id: "40E20927DF34BFAC"
+			rewards: [{
+				auto: "enabled"
+				command: "/say ESTA ESTATUA ALMACENA LA ESENCIA, SI TE EQUIVOCAS DE ATRIBUTO Y MEJORASTE OTRO POR ACCIDENTEPUEDES INTERCAMBIARLO ADICIONANDO ESMERALDAS"
+				id: "29DD8F05B6B3B437"
+				type: "command"
+			}]
+			subtitle: "Interactúa con un waystone"
+			tasks: [{
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "paraglider:horned_statue"
+				}
+				id: "7B040488FB76A521"
+				observe_type: 0
+				timer: 0L
+				to_observe: "paraglider:horned_statue"
+				type: "observation"
+			}]
+			title: "Que fuerte"
+			x: 7.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["4EE6025D967FB98A"]
+			description: [
+				"—Ey que haces ¿por qué me estás atacando yo que te hice?"
+				""
+				"Gnumus"
+				"!Yo matar, yo comer, tu morir¡"
+			]
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "gnumus:gnumus_cutlass"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "2280524169AB4B20"
+			rewards: [{
+				auto: "enabled"
+				command: "/say —Ey que haces ¿por qué me estás atacando yo que te hice?Gnumus!Yo matar, yo comer, tu morir¡"
+				id: "036C6CC63B4726CF"
+				type: "command"
+			}]
+			subtitle: "Ve a un gnumus guerrero"
+			tasks: [
+				{
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "gnumus:vintage_gnumus_cutlass"
+						tag: {
+							Damage: 0
+						}
+					}
+					id: "1B43161000602663"
+					observe_type: 5
+					optional_task: true
+					timer: 0L
+					to_observe: "gnumus:gnumus_hunter_not_dispawn"
+					type: "observation"
+				}
+				{
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "gnumus:vintage_gnumus_cutlass"
+						tag: {
+							Damage: 0
+						}
+					}
+					id: "5E8604213F0B50D7"
+					observe_type: 5
+					optional_task: true
+					timer: 0L
+					to_observe: "gnumus:gnumus_hunter"
+					type: "observation"
+				}
+			]
+			title: "¿Por qué me estás picoteando?"
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2280524169AB4B20"]
+			description: [
+				"—Ey que haces ¿por qué me estás atacando yo que te hice?"
+				""
+				"Gnumus"
+				"!Yo matar, yo comer, tu morir¡"
+			]
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "gnumus:gnumus_cutlass"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "311E35123F62B136"
+			rewards: [{
+				auto: "enabled"
+				command: "/say —Yo ganar, tú perder."
+				id: "2677AD9B8C58CB20"
+				type: "command"
+			}]
+			subtitle: "Ve a un gnumus guerrero"
+			tasks: [
+				{
+					entity: "gnumus:gnumus_hunter_not_dispawn"
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "gnumus:gnumus_claw"
+					}
+					id: "4410983C3E68A34B"
+					optional_task: true
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "gnumus:gnumus_hunter"
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "gnumus:gnumus_claw"
+					}
+					id: "6FF05CB7C0AFF464"
+					optional_task: true
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "¿Por qué me estás picoteando?"
+			x: 5.0d
+			y: 8.5d
+		}
+		{
+			description: [
+				"GNUMUS COMERCIANTE"
+				"—Hey ¿No te interesan unas bolsas sorpresa, por un par de doblones?"
+				""
+				"TU"
+				"—mmm ¿Cómo que cajas sorpresa?"
+				""
+				"GNUMUS COMERCIANTE"
+				"Si, nosotros los gnumus creamos algunos productos de calidad que estoy seguro que necesitas."
+				"TU"
+				"—No lo se esto me huele a estafa. "
+				"GNUMUS COMERCIANTE "
+				"Nada de eso, todo lo que tengo es pura calidad, te ofrezco una bolsa a cambio de un doblón ¿Qué dices? "
+			]
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "gnumus:pileof_gnumus_doubloons"
+			}
+			id: "7A5E842BA2E68D25"
+			rewards: [{
+				auto: "enabled"
+				command: "/say GNUMUS COMERCIANTE—Hey ¿No te interesan unas bolsas sorpresa, por un par de doblones?TU—mmm ¿Cómo que cajas sorpresa? GNUMUS COMERCIANTE nosotros los gnumus creamos algunos productos de calidad que estoy seguro que necesitas. TU —No lo se esto me huele a estafa. GNUMUS COMERCIANTE Nada de eso, todo lo que tengo es pura calidad, te ofrezco una bolsa a cambio de un doblón ¿Qué dices? "
+				id: "49362AFD63EB685D"
+				type: "command"
+			}]
+			subtitle: "Ve a un gnumus comerciante"
+			tasks: [{
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "gnumus:gnumus_doubloons"
+				}
+				id: "69CF2BA7A2910E65"
+				observe_type: 5
+				timer: 30L
+				title: "Habla con un gnumus comerciante"
+				to_observe: "gnumus:gnumus_merchant"
+				type: "observation"
+			}]
+			title: "Un hombre de negocios"
+			x: 7.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4EE6025D967FB98A"]
+			description: [
+				"GNUMUS TRABAJADOR"
+				"—Con este martillo yo, comer, tu ser cena, y yo luego dormir."
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "gnumus:gnumus_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5549072DCC896D86"
+			rewards: [{
+				auto: "enabled"
+				command: "/say GNUMUS TRABAJADOR—Con este martillo yo, comer, tu ser cena, y yo luego dormir."
+				id: "41F42D3468066B8E"
+				type: "command"
+			}]
+			subtitle: "Ve a un gnumus trabajador"
+			tasks: [{
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "gnumus:gnumus_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "5463C8C2B625062C"
+				observe_type: 5
+				optional_task: true
+				timer: 0L
+				title: "Ve un gnumus trabajador"
+				to_observe: "gnumus:gnumus_worker"
+				type: "observation"
+			}]
+			title: "CHAMBA CHAMBA"
+			x: 10.0d
+			y: 6.0d
+		}
+		{
+			description: ["—Soy un/una genio, con esto puedo llegar más rápido a cualquier lugar sin cansarme por caminar tanto."]
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "paraglider:paraglider"
+			}
+			id: "14F3C8D2E4DD865B"
+			rewards: [{
+				auto: "enabled"
+				command: "/say —Soy un/una genio, con esto puedo llegar más rápido a cualquier lugar sin cansarme por caminar tanto."
+				id: "200D1E08219E1F64"
+				type: "command"
+			}]
+			subtitle: "craftea un paraglider"
+			tasks: [{
+				id: "2D6D703B01F0D9F3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "paraglider:paraglider"
+				}
+				only_from_crafting: true
+				type: "item"
+			}]
+			title: "¡Puedo volar!"
+			x: 10.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["0BC5803C7D42C4EE"]
+			description: ["—Conseguir esto fue más difícil de lo que pensé. "]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "5A84BF1136A118E6"
+			rewards: [
+				{
+					id: "78D8ACFAA3C7CB61"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					auto: "enabled"
+					command: "/say —Conseguir esto fue más difícil de lo que pensé. "
+					id: "358C31C4B6E8C6ED"
+					type: "command"
+				}
+			]
+			subtitle: "Consigue 18 diamantes"
+			tasks: [{
+				count: 18L
+				id: "2A794FAD6EC426A8"
+				item: {
+					Count: 18
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			title: "Precioso"
+			x: 11.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5A84BF1136A118E6"]
+			description: [
+				"—Tarde más en conseguir este diamante que en hacerme esta armadura, pero esta bien prefiero esto a que me vuelen de un golpe. "
+				""
+				"Me encanta como brilla esta armadura."
+			]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "1E5397C5D968C933"
+			rewards: [
+				{
+					id: "37D232FEE9F87086"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					auto: "enabled"
+					command: "/say —Tarde más en conseguir este diamante que en hacerme esta armadura, pero esta bien prefiero esto a que me vuelen de un golpe. Me encanta como brilla esta armadura."
+					id: "3CC3619353BD1F66"
+					type: "command"
+				}
+			]
+			subtitle: "Craftea un pantalón y una pechera de diamante "
+			tasks: [
+				{
+					id: "21C3DDA21DD884FF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:diamond_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					id: "37489FACA4D6311D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:diamond_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			title: "Precioso"
+			x: 11.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1E5397C5D968C933"]
+			description: ["—Acabo de crear mi mochila hace poco y ya la tengo que expandir, hay muchas cosas en este mundo, eso de ser viajero no se me da muy bien. Comienzo a pensar que necesito un baul para guardar todo."]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "sophisticatedbackpacks:backpack"
+			}
+			id: "53C1F20C16CBB6FF"
+			rewards: [{
+				auto: "enabled"
+				command: "/say —Acabo de crear mi mochila hace poco y ya la tengo que expandir, hay muchas cosas en este mundo, eso de ser viajero no se me da muy bien. Comienzo a pensar que necesito un baul para guardar todo."
+				id: "3ADBCE7BC2976B24"
+				type: "command"
+			}]
+			subtitle: "craftea una mochila de hierro"
+			tasks: [{
+				id: "24118745059C14C8"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "sophisticatedbackpacks:iron_backpack"
+				}
+				only_from_crafting: true
+				type: "item"
+			}]
+			title: "!Otra vez no puedo¡"
+			x: 13.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["53C1F20C16CBB6FF"]
+			description: ["—Con esto voy a poder guardar mi distancia con esos animales o criaturas extrañas que tanto me molestan"]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:bow"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "6E22F56BA5D6C91A"
+			rewards: [
+				{
+					count: 16
+					id: "6A3CA4AD29635EE2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:arrow"
+					}
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					command: "/say —Con esto voy a poder guardar mi distancia con esos animales o criaturas extrañas que tanto me molestan"
+					id: "01128379248E4905"
+					type: "command"
+				}
+			]
+			subtitle: "craftea un arco"
+			tasks: [{
+				id: "71E63013756BB56D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: true
+				type: "item"
+			}]
+			title: "!No puedo más¡"
+			x: 15.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["516DEA87AC55402F"]
+			description: [
+				"TU"
+				"—Hola extraño ser, ¿Hablas mi idioma? "
+				""
+				"KOBOLD"
+				"—Cuicuicui, pues claro, ni que fuera una rata de alcantarilla aislada de este mundo ¿Quien te invitó a nuestra cueva?"
+				"TU"
+				"—No me mires así, yo solo llegué porque escuché un ruido extraño mientras estaba minando y llegué a este lugar.  "
+				"KOBOLD"
+				"—Cuicuicui bueno pues esta es nuestra cueva y a menos de que no vengas a negociar con nosotros no eres bienvenido, tanto nos costó escondernos del mundo exterior para que llegues tu y nos expongas así."
+				"TU"
+				"—Bueno pues si yo los encontré entonces creo que no se escondieron muy bien eh, además"
+				"¿Negociar? de qué clase de negocios estamos hablando?"
+			]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "kobolds:kobold_skull"
+			}
+			id: "08F1B4484D5FBAAD"
+			rewards: [{
+				auto: "invisible"
+				command: "/say TU—Hola extraño ser, ¿Hablas mi idioma? KOBOLD—Cuicuicui, pues claro, ni que fuera una rata de alcantarilla aislada de este mundo ¿Quien te invitó a nuestra cueva?TU—No me mires así, yo solo llegué porque escuché un ruido extraño mientras estaba minando y llegué a este lugar.  KOBOLD—Cuicuicui bueno pues esta es nuestra cueva y a menos de que no vengas a negociar con nosotros no eres bienvenido, tanto nos costó escondernos del mundo exterior para que llegues tu y nos expongas así.TU—Bueno pues si yo los encontré entonces creo que no se escondieron muy bien eh, además¿Negociar? de qué clase de negocios estamos hablando?"
+				id: "085EF92F44F0C4C9"
+				type: "command"
+			}]
+			subtitle: "Encuentra un kobold común"
+			tasks: [{
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "kobolds:kobold_iron_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "5CCC3035045BAB95"
+				observe_type: 5
+				timer: 50L
+				title: "Habla con el kobold"
+				to_observe: "kobolds:kobold"
+				type: "observation"
+			}]
+			title: "¿ESO ES UNA RATA?"
+			x: 13.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["08F1B4484D5FBAAD"]
+			description: [
+				"KOBOLD"
+				"—Cuicuicui, bueno tengo muchas cosas en mi inventario, mira dame una esmeralda y te daré lo primero que vea de mi inventario."
+				"TU"
+				"—Esos no son negocios, para que yo te de mis esmeraldas tengo que saber que es lo que estoy pagando, me quieres estafar."
+				"KOBOLD"
+				"—Cuicuicui, que persona tan molesta eres mira, tengo un gran negociaso, para ti, aprovechando ya que estas aqui te voy a ofrecer mi cuento más preciado, se llama “El fuego que se durmió” "
+				"Dame 40 esmeraldas por el "
+				"TU"
+				"—40 ¡ESMERALDAS!"
+				"KOBOLD"
+				"—Cuicuicui como escuchaste, 40 esmeraldas, es de mis cuentos favoritos, además fue muy difícil robar, digo, conseguir este libro, se lo quité, digo me lo dio un niño que iba camino a casa, me dijo que ya no lo quería porque ya lo había leído muchas veces, ¿entonces qué dices?"
+			]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "kobolds:kobold_skull"
+			}
+			id: "3CBA31E62A750216"
+			rewards: [{
+				auto: "invisible"
+				command: "/say KOBOLD—Cuicuicui, bueno tengo muchas cosas en mi inventario, mira dame una esmeralda y te daré lo primero que vea de mi inventario.TU—Esos no son negocios, para para que yo te de mis esmeraldas tengo que saber que es lo que estoy pagando, me quieres estafar.KOBOLD—Cuicuicui, que persona tan molesta eres mira, tengo un gran negociaso, para ti, aprovechando ya que estas aqui te voy a ofrecer mi cuento más preciado, se llama “El fuego que se durmió” Dame 40 esmeraldas por el TU—40 ¡ESMERALDAS!KOBOLD—Cuicuicui como escuchaste, 40 esmeraldas, es de mis cuentos favoritos, además fue muy difícil robar, digo, conseguir este libro, se lo quité, digo me lo dio un niño que iba camino a casa, me dijo que ya no lo quería porque ya lo había leído muchas veces, ¿entonces qué dices?"
+				id: "06E2EC16BF42320E"
+				type: "command"
+			}]
+			subtitle: "Sigue hablando con el kobold"
+			tasks: [{
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "kobolds:kobold_iron_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "6CC819484150B851"
+				observe_type: 5
+				timer: 20L
+				title: "Habla con el kobold"
+				to_observe: "kobolds:kobold"
+				type: "observation"
+			}]
+			title: "dinero dinero"
+			x: 13.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["3CBA31E62A750216"]
+			description: [
+				"—¿Será este el cuento que creo que es?"
+				""
+				"El cuento de la persona que me enseñó a cultivar"
+			]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "kobolds:kobold_skull"
+			}
+			id: "75C3A0D7A2A5DED2"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/say —¿Será este el cuento que creo que es?El cuento de la persona que me enseñó a cultivar"
+					id: "084485FC1AD35A10"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					id: "4C44911C38D15E65"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:written_book"
+						tag: {
+							author: "Desconocido"
+							pages: [
+								"{\"text\":\"Hace mucho, mucho tiempo, cuando el mundo era joven y lleno de maravillas, vivía un mago sabio en lo alto de una montaña. Decían que podía hablar con las estrellas y que ellas le contaban secretos sobre el pasado y el futuro.\"}"
+								"{\"text\":\"Una noche, mientras el cielo brillaba con luces que parecían bailar, las estrellas le susurraron algo importante. Era una profecía, el mago la escribió en un pergamino dorado para que no se le olvidara.\"}"
+								"{\"italic\":true,\"text\":\"\\\"Cuando las llamas olvidadas despierten y las sombras caigan sobre la tierra, un viajero de un lugar lejano vendrá. Este ser, guiado por el brillo de la esperanza, unirá los corazones de todos y traerá paz al mundo. \"}"
+								"{\"extra\":[{\"italic\":true,\"text\":\"Solo al enfrentar la mayor oscuridad con valentía, podrá encender la chispa que salvará a todos.\\\"\"},{\"text\":\"\\nEl mago guardó el pergamino en un cofre y lo escondió en un viejo templo, esperando que llegara el día en que alguien lo encontrara.\\n \"}],\"text\":\"\"}"
+								"{\"text\":\"Muchos años después, cuando los ríos eran menos claros y el cielo menos brillante, algo extraño ocurrió. Una figura llegó al mundo.\\nNadie sabía de dónde venía, pero esa persona tenía un corazón valiente y un espíritu curioso. Los aldeanos comenzaron a\"}"
+								"{\"text\":\"llamarlo \\\"viajero\\\". Una noche, el viajero tuvo un sueño. En él, una estrella le habló y le dijo: “Ve al viejo templo en el bosque oscuro. Allí están las respuestas que tanto buscas.” Al despertar, el viajero no perdió tiempo y se puso en camino.\"}"
+								"{\"text\":\"El bosque oscuro era un lugar lleno de sombras y ruidos extraños, pero el viajero no se dio por vencido. Después de mucho buscar, encontró el templo cubierto de musgo y enredaderas.\\nbrillante iluminada por rayos de sol que se colaban por las grietas,\"}"
+								"{\"extra\":[{\"text\":\"estaba el cofre del mago. Con cuidado, el viajero lo abrió y encontró el pergamino dorado.\\nAl leerlo, todo tuvo sentido. El viajero supo cuál era su misión en este mundo. El viajero recorrió el mundo, reuniendo a magos, mecánicos y\"},{\"bold\":true,\"text\":\" \"}],\"text\":\"\"}"
+								"{\"text\":\"aldeanos. Juntos, construyeron máquinas maravillosas y aprendieron hechizos poderosos. Con cada paso, el viajero inspiraba a otros a unirse en su causa.\\nFinalmente, llegó el día de enfrentar la oscuridad. En el corazón de una\"}"
+								"{\"extra\":[{\"text\":\"torre en llamas, donde el viajero se encontró cara a cara con el ser que había causado tanto sufrimiento. Era una criatura inmensa, hecha de fuego y odio. Pero el viajero no tuvo miedo. Con el poder de la chispa que irradiaba de su\"},{\"bold\":true,\"text\":\" \"}],\"text\":\"\"}"
+								"{\"text\":\"espada, emergió una luz brillante que llenó la torre, donde se encontraba y el fuego oscuro comenzó a desvanecerse. La criatura rugió una última vez antes de ser sellada para siempre.\\nCuando el viajero salió de la torre, el mundo entero se llenó de luz.\"}"
+								"{\"text\":\"Los ríos volvieron a ser claros, el cielo se pintó de azul, y las criaturas oscuras desaparecieron. El viajero regresó a los pueblos, donde fue recibido con alegría y gratitud. \"}"
+								"{\"text\":\"Aunque nadie supo de dónde venía el viajero ni a dónde iba después, una cosa era segura: gracias a su valentía y bondad, el mundo estaba en paz otra vez.\"}"
+							]
+							resolved: 1b
+							title: "El fuego que se durmió"
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "HABLA CON EL KOBOLD Y DEPOSITA 40 ESMERALDAS"
+			tasks: [
+				{
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "kobolds:kobold_iron_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					id: "724E298E6E4BADF5"
+					observe_type: 5
+					timer: 20L
+					title: "Habla con el kobold"
+					to_observe: "kobolds:kobold"
+					type: "observation"
+				}
+				{
+					consume_items: true
+					count: 40L
+					id: "0F9B8FB9EBDE4299"
+					item: {
+						Count: 40
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			title: "dinero dinero"
+			x: 13.5d
+			y: -9.0d
+		}
+		{
+			description: ["—¡No te me acerques, alejate soy muy joven para ser comido por algo tan horrible!"]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "biomesoplenty:spider_egg"
+			}
+			id: "799890144EB023A4"
+			rewards: [{
+				auto: "invisible"
+				command: "/say —¡No te me acerques, alejate soy muy joven para ser comido por algo tan horrible!"
+				id: "17CCD12F59F996F4"
+				type: "command"
+			}]
+			subtitle: "Ve una spider mother"
+			tasks: [{
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:spider_spawn_egg"
+				}
+				id: "3126E170722B4EF6"
+				observe_type: 5
+				timer: 0L
+				title: "Encuentra una araña madre"
+				to_observe: "born_in_chaos_v1:mother_spider"
+				type: "observation"
+			}]
+			title: "Ponte a rezar"
+			x: 13.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["799890144EB023A4"]
+			description: [
+				"—Mamá quiero ir a casa, "
+				"creo que moje mis pantalones."
+			]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "biomesoplenty:spider_egg"
+			}
+			id: "66EBD9DA1EFAA8A1"
+			rewards: [{
+				auto: "invisible"
+				command: "/say —Mamá quiero ir a casa, creo que moje mis pantalones."
+				id: "126D080011B4CF1A"
+				type: "command"
+			}]
+			subtitle: "mata a una spider mother"
+			tasks: [{
+				entity: "born_in_chaos_v1:mother_spider"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:spider_spawn_egg"
+				}
+				id: "42CF7FC33B4B4CB4"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Que bendición"
+			x: 13.5d
+			y: 6.0d
+		}
+		{
+			description: ["—Ahhhhhh ¡quien eres o qué rayos ereeees!"]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "born_in_chaos_v1:lifestealer_skull"
+			}
+			id: "5ABBD85C53087E3C"
+			rewards: [{
+				auto: "invisible"
+				command: "/say —Ahhhhhh ¡quien eres o qué rayos ereeees!"
+				id: "6DC704677C3BAD08"
+				type: "command"
+			}]
+			subtitle: "Observa a un lifestealer"
+			tasks: [{
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "born_in_chaos_v1:lifestealer_skull"
+				}
+				id: "533E811D04FF2013"
+				observe_type: 5
+				timer: 0L
+				title: "Observa a un Lifestealer"
+				to_observe: "born_in_chaos_v1:lifestealer_true_form"
+				type: "observation"
+			}]
+			title: "Atrás atrás"
+			x: 12.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["5ABBD85C53087E3C"]
+			description: ["—Ahora entiendo a todos esos viajeros que decían ver cosas horribles en sus viajes, de verdad no mentían, me están temblando demasiado las piernas."]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "born_in_chaos_v1:lifestealer_skull"
+			}
+			id: "7E88F972C3D1B615"
+			rewards: [{
+				auto: "invisible"
+				command: "/say —Ahora entiendo a todos esos viajeros que decían ver cosas horribles en sus viajes, de verdad no mentían, me están temblando demasiado las piernas."
+				id: "6E4C2435EC9BE9A6"
+				type: "command"
+			}]
+			subtitle: "mata a un lifestealer "
+			tasks: [{
+				entity: "born_in_chaos_v1:lifestealer_true_form"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "born_in_chaos_v1:lifestealer_bone"
+				}
+				id: "3E26254073AEDDC7"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Los rumores eran ciertos"
+			x: 15.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["585F56931944727A"]
+			description: ["ESTE ES UN TUTORIAL PARA UTILIZAR LOS MODS DE FARMEO "]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "farm_and_charm:lettuce"
+			}
+			id: "0116E787698E11EA"
+			shape: "octagon"
+			tasks: [{
+				id: "300ACB212BAF17F9"
+				title: "PRESIONA AQUI PARA RECLAR LA MISION"
+				type: "checkmark"
+			}]
+			title: "VERDE COMO LECHUGA"
+			x: 5.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["585F56931944727A"]
+			description: ["TUTORIAL DE COMO COCINAR CON EL MOD DE &aFARMER´S DELIGHT&r"]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "farmersdelight:ratatouille"
+			}
+			id: "2458DDB60304B852"
+			rewards: [{
+				id: "1B302B58EC5B719C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "octagon"
+			subtitle: "TUTORIAL DE COMO COCINAR"
+			tasks: [{
+				id: "32B36ABE6E8168D3"
+				title: "Presiona aqui para activar la mision"
+				type: "checkmark"
+			}]
+			title: "Ratatouille"
+			x: 10.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["0116E787698E11EA"]
+			description: [
+				"-Coloca el water splinker"
+				""
+				"-Clic derecho con la azada de hierro en un bloque de pasto al lado del water splinker"
+				""
+				"&e(water splinker tiene un radio de 8x8)&r"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "wardrobe:farmers_hat_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "48E3C2310111C121"
+			shape: "octagon"
+			subtitle: "Craftea una azada de hierro y water sprinkler"
+			tasks: [
+				{
+					id: "78F5C6D69FA286D7"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					id: "1971428E6FC5C8B3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farm_and_charm:water_sprinkler"
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			title: "Prepara tus materiales de trabajo"
+			x: 5.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["48E3C2310111C121"]
+			description: [
+				"-Consigue las semillas de "
+				"Tomate, lechuga, corn kernels, trigo"
+				"&e(Farmers delight) &r"
+				"&6(Farm and charm)&r"
+				""
+				"&a-Estas semillas se encuentran en diferentes biomas alrededor del mundo, inclusive en las aldeas.&r"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "quark:seed_pouch"
+			}
+			id: "3B839E1D97389840"
+			rewards: [
+				{
+					count: 3
+					id: "18FC3A0971D5B73B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farmersdelight:tomato_seeds"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "49A3720C3830631B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farm_and_charm:tomato_seeds"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "78A14C078CE0D5BF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farm_and_charm:lettuce_seeds"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0E120E025020FB1A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farmersdelight:cabbage_seeds"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "11BFA46AFDC1E653"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:wheat_seeds"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "51163CEB91123D31"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farm_and_charm:kernels"
+					}
+					type: "item"
+				}
+				{
+					id: "54A72FFA7CFE4022"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "quark:seed_pouch"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4E3873321AD727D6"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:carrot"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			subtitle: "Craftea una azada de hierro y water sprinkler"
+			tasks: [{
+				id: "3E8D8D47743541A2"
+				title: "RECLAMA TUS SEMILLAS"
+				type: "checkmark"
+			}]
+			title: "Tu bolsa de semillas"
+			x: 5.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["3B839E1D97389840"]
+			description: ["Craftea una estufa/stove, roaster, coocking pot/olla para cocer, mincer, crafting bowl"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "create:dough"
+			}
+			id: "71514722415DA6E5"
+			shape: "octagon"
+			subtitle: "Craftea tus herramientas"
+			tasks: [
+				{
+					id: "38B8A65C1D95CE45"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farm_and_charm:stove"
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					id: "56622C2C8DBAD8F2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "butchersdelight:roaster"
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					id: "1BBCE39A78856629"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farm_and_charm:cooking_pot"
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					id: "15111E3FFFEE584F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farm_and_charm:mincer"
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					id: "55B2C3BD2DA54B8C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farm_and_charm:crafting_bowl"
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			title: "Con las manos en la masa"
+			x: 5.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["3B839E1D97389840"]
+			description: [
+				"-Coloca el mincer"
+				"-Coloca 1 de trigo con clic derecho y cuando lo coloques dale vueltas hasta que te dropee la masa de trigo"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "farm_and_charm:cat_food"
+			}
+			id: "6B10CABA16ED7FDE"
+			shape: "octagon"
+			subtitle: "Coloca la mincer y coloca trigo"
+			tasks: [{
+				id: "4604B24D8762F664"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "farm_and_charm:flour"
+				}
+				type: "item"
+			}]
+			title: "Mi primer platillo"
+			x: 5.022789115646283d
+			y: 22.726870748299362d
+		}
+		{
+			dependencies: ["4B1E22D38F9843B3"]
+			description: [
+				"-Coloca el  Cuenco de elaboración/ crafting bowl"
+				""
+				"-Clic derecho con la cubeta de agua para llenar el cuenco"
+				""
+				"-Clic derecho flour/ harina"
+				""
+				"-Clic derecho Yeast/ levadura"
+				""
+				"-Después revuelve hasta que se haga amarilla"
+				""
+				"-Para  retirarlo shift+clic derecho "
+			]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "farm_and_charm:dough"
+			}
+			id: "633A7DAC7A0FB856"
+			shape: "octagon"
+			subtitle: "Revuelve para optener la masa"
+			tasks: [{
+				id: "05CF23BA1564ECAD"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "farm_and_charm:dough"
+				}
+				type: "item"
+			}]
+			title: "Revolver "
+			x: 5.020408163265273d
+			y: 26.172619047619037d
+		}
+		{
+			dependencies: ["633A7DAC7A0FB856"]
+			description: [
+				"-Mete la masa en la picadora de carne/ mincer"
+				""
+				"-Tritura la masa con clic derecho "
+				""
+				"-Tritura un pollo crudo"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "farmersdelight:raw_pasta"
+			}
+			id: "60F7AD3EFD2C0E83"
+			shape: "octagon"
+			subtitle: "Tritura la masa/ dough y un pollo crudo"
+			tasks: [
+				{
+					id: "6C50DEA0F8796FD3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farm_and_charm:raw_pasta"
+					}
+					type: "item"
+				}
+				{
+					id: "28B4671E312E65F1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farm_and_charm:chicken_parts"
+					}
+					type: "item"
+				}
+			]
+			title: "Rebaname"
+			x: 4.987755102040786d
+			y: 27.870918367346945d
+		}
+		{
+			dependencies: ["633A7DAC7A0FB856"]
+			description: [
+				"-Da clic derecho en la Estufa/ stove "
+				""
+				"-coloca la pasta, partes de pollo/ Chicken parts y zanahoria en la estufa "
+				""
+				"(Para prender la estufa coloca carbón)"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "farm_and_charm:roasted_chicken"
+			}
+			id: "10A27D3ADB1A7ACD"
+			rewards: [
+				{
+					count: 4
+					id: "2A74EECE2303A2B5"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "168E64895C3C8BEC"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 4
+					id: "05B87D4BC9AEC36D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "paraglider:spirit_orb"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			subtitle: "Crea 1 pollo asado"
+			tasks: [{
+				id: "5F31789A93219409"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "farm_and_charm:roasted_chicken"
+				}
+				type: "item"
+			}]
+			title: "Yomi yomi "
+			x: 5.0d
+			y: 29.5d
+		}
+		{
+			dependencies: ["6B10CABA16ED7FDE"]
+			description: [
+				"-Coloca la coocking pot encima, de la estufa/stove"
+				""
+				"-Clic derecho a la estufa y coloca 1 de azucar, una cubeta de agua, 1 trigo y el bol"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "farm_and_charm:yeast"
+			}
+			id: "4B1E22D38F9843B3"
+			shape: "octagon"
+			subtitle: "Crea la yeast/levadura "
+			tasks: [{
+				id: "2659102727AD3E02"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "farm_and_charm:yeast"
+				}
+				type: "item"
+			}]
+			title: "Bacterias"
+			x: 5.00408163265304d
+			y: 24.36309523809522d
+		}
+		{
+			dependencies: ["2458DDB60304B852"]
+			description: ["Con shift y clic derecho coloca el sartén encima de la parrilla"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "farmersdelight:skillet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5C7AC7947766A73D"
+			shape: "octagon"
+			subtitle: "Craftea tus materiales"
+			tasks: [
+				{
+					count: 2L
+					id: "1CD7C85E4DBDC5C3"
+					item: {
+						Count: 2
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farmersdelight:stove"
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					id: "45790AB265FC8284"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farmersdelight:skillet"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					id: "46D3A6C8C85804E3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farmersdelight:cooking_pot"
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					id: "46C8F2261E1390D1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farmersdelight:cutting_board"
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					id: "443B93C19CD51256"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farmersdelight:iron_knife"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					id: "3C7A11F533392D42"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:bowl"
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			title: "¿CON QUE VAS A COMER?"
+			x: 10.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["5C7AC7947766A73D"]
+			description: [
+				"-Coloca la tabla de picar"
+				""
+				"-Con un &ctrozo de carne&r de cualquier animal (Vaca, pollo, cerdo, oveja) colócala encima de la tabla de picar"
+				"y con un cuchillo le das clic derecho a la carne "
+			]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "farmersdelight:iron_knife"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "09126290F60512F2"
+			shape: "octagon"
+			subtitle: "Coloca una tabla de picar y pica carne"
+			tasks: [{
+				id: "51FA33199F195108"
+				title: "RECLAMA ESTA MISION CUANDO LO HAYAS HECHO"
+				type: "checkmark"
+			}]
+			title: "Picalo picalo"
+			x: 10.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["09126290F60512F2"]
+			description: ["-Coloca la carne que picaste en el sartén"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "farmersdelight:stove"
+			}
+			id: "454E07AC5D7D3A4F"
+			shape: "octagon"
+			subtitle: "Cocina la carne en el sartén"
+			tasks: [{
+				id: "22363D881885ECF6"
+				title: "RECLAMA ESTA MISION CUANDO LO HAYAS HECHO"
+				type: "checkmark"
+			}]
+			title: "prendelo"
+			x: 11.5d
+			y: 18.5d
+		}
+		{
+			dependencies: ["454E07AC5D7D3A4F"]
+			description: [
+				"Consigue zanahoria, tomate, repollo, pollo crudo"
+				""
+				""
+				"[ \"Realiza las misiones de \", { \"text\": \"VERDE COMO LECHUGA\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0116E787698E11EA\" } }, \" para conseguir los ingredientes como el tomate y el repollo\" ] "
+			]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "farmersdelight:cabbage"
+			}
+			id: "40FB83ACC23C33D1"
+			shape: "octagon"
+			subtitle: "Cocina la carne en el sartén"
+			tasks: [
+				{
+					id: "2E402D60989A6979"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:carrot"
+					}
+					type: "item"
+				}
+				{
+					id: "49EAB8B7694B613F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farmersdelight:tomato"
+					}
+					type: "item"
+				}
+				{
+					id: "4A993CCF2D9CD57F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farmersdelight:cabbage"
+					}
+					type: "item"
+				}
+				{
+					id: "01A8564F3F630BD4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:chicken"
+					}
+					type: "item"
+				}
+			]
+			title: "¿Qué te vas a comer?"
+			x: 13.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["40FB83ACC23C33D1"]
+			description: [
+				"-Dale clic derecho a la olla"
+				""
+				"-Coloca el bol en la olla "
+				""
+				"-coloca los ingredientes en el siguiente orden en la olla"
+				""
+				"&ePollo &r   &6zanahoria&r  &a repollo&r"
+				"&ctomate&r"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "farmersdelight:chicken_soup"
+			}
+			id: "3FB4750387518ED4"
+			shape: "octagon"
+			subtitle: "Cocina una sopa de pollo"
+			tasks: [{
+				id: "6A210C6A0E256358"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "farmersdelight:chicken_soup"
+				}
+				type: "item"
+			}]
+			title: "Tu primer receta "
+			x: 14.5d
+			y: 20.5d
+		}
+		{
+			dependencies: ["3FB4750387518ED4"]
+			description: [
+				"Cada platillo diferente de dara nuevos efectos, todos los platillos existentes los puedes encontrar en el buscador de  &6JEI&r poniendo"
+				"&a@Farmer´s delight&r en el buscador"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "farmersdelight:cake_slice"
+			}
+			id: "5548E95E53CA1EE3"
+			rewards: [
+				{
+					count: 4
+					id: "49442FCFFCC1BDD9"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "paraglider:spirit_orb"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "68E973B29827D9C5"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "09F80A64A8660272"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farmersdelight:cabbage_crate"
+					}
+					type: "item"
+				}
+				{
+					id: "5E1848ABDF4E88D8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farmersdelight:rice_bag"
+					}
+					type: "item"
+				}
+				{
+					id: "08F7A1C4126049A0"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farmersdelight:spruce_cabinet"
+					}
+					type: "item"
+				}
+				{
+					id: "43CFA5E333E78CAF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farmersdelight:onion_crate"
+					}
+					type: "item"
+				}
+				{
+					id: "35F7D575318EA7F6"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farmersdelight:tomato_crate"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			subtitle: "Comete tu sopa de pollo"
+			tasks: [{
+				id: "6F8189FAE2CF6733"
+				title: "RECLAMA TUS RECOMPENSAS"
+				type: "checkmark"
+			}]
+			title: "ñam ñam"
+			x: 16.0d
+			y: 21.5d
+		}
+	]
+	title: "&6MISIONES SECUNDARIAS&r"
+}

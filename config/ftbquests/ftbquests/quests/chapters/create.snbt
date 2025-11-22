@@ -1,0 +1,4019 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "create"
+	group: "5AFBEBD33EED4DC9"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "create:wrench"
+	}
+	id: "4B6963BC653555BD"
+	images: [
+		{
+			height: 1.0d
+			image: "minecraft:block/andesite"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/andesite"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/andesite"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/andesite"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/andesite"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/andesite"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/iron_nugget"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.142857142857146d
+			y: -4.160714285714288d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/iron_nugget"
+			rotation: 135.0d
+			width: 1.0d
+			x: 0.0d
+			y: -4.123809523809541d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/iron_nugget"
+			rotation: 27.0d
+			width: 1.0d
+			x: 0.7857142857142847d
+			y: -3.1964285714285765d
+		}
+		{
+			click: "#40B9FC33CA29D64F"
+			height: 1.0d
+			hover: ["Bloque: Cualquier Tronco Sin Corteza"]
+			image: "butchersdelight:block/stripped_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.571428571428591d
+			y: -6.267857142857142d
+		}
+		{
+			click: "#40B9FC33CA29D64F"
+			height: 1.0d
+			image: "minecraft:item/hypixel/crafting_arrow"
+			rotation: -90.0d
+			width: 1.0d
+			x: 5.571428571428591d
+			y: -7.267857142857142d
+		}
+		{
+			click: "#40B9FC33CA29D64F"
+			height: 1.0d
+			hover: ["Bloque: Caja o Revestidor Hecho"]
+			image: "create:block/andesite_casing"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.571428571428591d
+			y: -8.267857142857142d
+		}
+		{
+			click: "#1EE250722CE55607"
+			height: 0.9d
+			image: "create:item/andesite_alloy"
+			rotation: 0.0d
+			width: 0.9d
+			x: 4.0714285714285765d
+			y: -7.482142857142861d
+		}
+		{
+			click: "#40B9FC33CA29D64F"
+			height: 1.0d
+			hover: [
+				"Lingote: Cobre"
+				"Lingote: Laton"
+				"Lingote: Aleacion de Andesita"
+			]
+			image: "create:item/brass_hand"
+			rotation: 90.0d
+			width: 1.0d
+			x: 4.714285714285715d
+			y: -6.982142857142854d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/andesite"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			click: "#40B9FC33CA29D64F"
+			height: 1.0d
+			image: "minecraft:item/hypixel/crafting_arrow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -7.5d
+		}
+		{
+			click: "#5224CD1EFABD2FC1"
+			height: 1.0d
+			image: "minecraft:item/hypixel/crafting_arrow"
+			rotation: -90.0d
+			width: 1.0d
+			x: -5.971428571428582d
+			y: -9.407142857142837d
+		}
+		{
+			click: "#12B728041118A8FC"
+			height: 1.0d
+			hover: ["Bloque: Deposito"]
+			image: "create:block/depot_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.971428571428582d
+			y: -10.407142857142837d
+		}
+		{
+			click: "#1A3C403384F20B44"
+			height: 0.7d
+			image: "minecraft:item/iron_ingot"
+			rotation: 0.0d
+			width: 0.7d
+			x: -8.27142857142858d
+			y: -11.59642857142856d
+		}
+		{
+			click: "#5224CD1EFABD2FC1"
+			height: 1.0d
+			hover: ["Maquina: Prensa Mecanica"]
+			image: "create:block/mechanical_press_side"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.935714285714305d
+			y: -11.842857142857117d
+		}
+		{
+			height: 0.5d
+			hover: ["Maquina: Prensa Mecanica"]
+			image: "minecraft:block/iron_pressure_plate"
+			order: 1
+			rotation: 0.0d
+			width: 0.5d
+			x: -5.971428571428582d
+			y: -11.407142857142837d
+		}
+		{
+			click: "#5224CD1EFABD2FC1"
+			color: 5658198
+			height: 0.45d
+			hover: ["Maquina: Prensa Mecanica"]
+			image: "minecraft:block/iron_pressure_plate"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.935714285714305d
+			y: -11.128571428571409d
+		}
+		{
+			click: "#5224CD1EFABD2FC1"
+			height: 1.0d
+			hover: [
+				"Lingote: Laton"
+				"Lingote: Hierro"
+				"Lingote: Cobre"
+				"Lingote: Oro"
+			]
+			image: "create:item/brass_hand"
+			rotation: 90.0d
+			width: 1.0d
+			x: -6.971428571428582d
+			y: -10.907142857142837d
+		}
+		{
+			click: "#26972CAB3FF37A6B"
+			height: 0.7d
+			image: "minecraft:item/gold_ingot"
+			rotation: 0.0d
+			width: 0.7d
+			x: -7.771428571428579d
+			y: -12.09642857142856d
+		}
+		{
+			click: "#27387919B377F745"
+			height: 0.7d
+			image: "minecraft:item/copper_ingot"
+			rotation: 0.0d
+			width: 0.7d
+			x: -7.771428571428579d
+			y: -11.09642857142856d
+		}
+		{
+			click: "#3CF38B87317BF654"
+			height: 0.7d
+			image: "create:item/brass_ingot"
+			rotation: 0.0d
+			width: 0.7d
+			x: -7.271428571428579d
+			y: -11.59642857142856d
+		}
+		{
+			click: "#6F652991D20D9BC7"
+			height: 0.8d
+			image: "minecraft:item/copper_ingot"
+			rotation: 0.0d
+			width: 0.8d
+			x: 4.714285714285722d
+			y: -7.732142857142861d
+		}
+		{
+			click: "#642138E3093AA108"
+			height: 0.8d
+			image: "create:item/brass_ingot"
+			rotation: 0.0d
+			width: 0.8d
+			x: 3.9285714285714377d
+			y: -6.910714285714292d
+		}
+		{
+			height: 3.0d
+			image: "rustic_engineer:item/gear_item"
+			rotation: 0.0d
+			width: 3.0d
+			x: 1.7738095238094829d
+			y: -0.23809523809526922d
+		}
+		{
+			height: 1.0d
+			image: "rustic_engineer:item/clock_key_item"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0833333333333854d
+			y: -10.345238095238152d
+		}
+		{
+			height: 1.7d
+			image: "rustic_engineer:item/pipe_wrench_item"
+			rotation: 0.0d
+			width: 1.7d
+			x: -0.19047619047623954d
+			y: -8.559523809523867d
+		}
+		{
+			height: 1.0d
+			image: "rustic_engineer:item/tool_mech_item"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5119047619048089d
+			y: -6.952380952381013d
+		}
+		{
+			height: 3.0d
+			image: "rustic_engineer:item/engine_item"
+			rotation: 0.0d
+			width: 3.0d
+			x: -3.0d
+			y: -5.0d
+		}
+		{
+			height: 2.5d
+			image: "realmrpg_skeletons:block/waterdrop_skeleton_water"
+			rotation: 0.0d
+			width: 2.5d
+			x: 3.5d
+			y: -10.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Necesitas &e&l2x Andesita&r y &e&l2x pepita de hierro&r para crear &e&l1x Aleacion de Andesita"]
+			id: "1EE250722CE55607"
+			rewards: [
+				{
+					id: "3AFBBBC01BDCC4A9"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 2
+					id: "64D4E7C3A2B45791"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "4578D6E64245D9DA"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:brown_toolbox"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "¿Como obtenerlo?"
+			tasks: [{
+				count: 5L
+				id: "6CFA1C7E3BA56FA3"
+				item: {
+					Count: 5
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:andesite_alloy"
+				}
+				type: "item"
+			}]
+			title: "¿¡Una aleacion!?"
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["26972CAB3FF37A6B"]
+			id: "26A53A55B7C8454C"
+			rewards: [
+				{
+					id: "20331A20B711EF7C"
+					type: "xp"
+					xp: 150
+				}
+				{
+					count: 3
+					id: "27CF7BC5E1F24DD1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_casing"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5EC40C0B79D2EE23"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:shaft"
+					}
+					type: "item"
+				}
+				{
+					id: "3139F7C7E8F744B2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "whatareyouvotingfor:crab_claw"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				id: "26459CA2A32798AA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:wrench"
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["26972CAB3FF37A6B"]
+			description: [""]
+			id: "5290DF2565EFBCD5"
+			rewards: [
+				{
+					id: "423EDE40E840D647"
+					type: "xp"
+					xp: 125
+				}
+				{
+					count: 3
+					id: "494044E254D9EB84"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:raw_gold"
+					}
+					type: "item"
+				}
+				{
+					id: "7DA8EB2F3004E98B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "sophisticatedbackpacks:upgrade_base"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				id: "7FE6D935F4FD1ED8"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:goggles"
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["1EE250722CE55607"]
+			description: ["Haz &a&lClick Derecho&r con &l&e1x Aleacion de Andesita&r a un &l&aTronco Sin Corteza"]
+			id: "40B9FC33CA29D64F"
+			rewards: [
+				{
+					id: "0AADF54C5566807F"
+					type: "xp"
+					xp: 125
+				}
+				{
+					id: "46DD83C591D563E1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:raw_iron_block"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1B3A783EB75ED61E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "paraglider:spirit_orb"
+					}
+					random_bonus: 1
+					type: "item"
+				}
+			]
+			subtitle: "¿Como obtenerlo?"
+			tasks: [
+				{
+					count: 3L
+					id: "6C537A49B126FDB8"
+					item: {
+						Count: 3
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_casing"
+					}
+					type: "item"
+				}
+				{
+					advancement: "create:andesite_casing"
+					criterion: ""
+					id: "4EA91D8CD8BDD7D5"
+					title: "Crea una &aCaja de Andesita"
+					type: "advancement"
+				}
+			]
+			title: "Nuevas Recetas"
+			x: 2.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["1EE250722CE55607"]
+			id: "1508F043F62A7362"
+			rewards: [
+				{
+					id: "0FF6886061D73F1C"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 3
+					id: "69473FE8F7690089"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:raw_iron"
+					}
+					type: "item"
+				}
+				{
+					id: "2E6178C4E0045326"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "born_in_chaos_v1:pileof_dark_metal"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5480C3F943CA5C51"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:basin"
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -6.5d
+		}
+		{
+			dependencies: [
+				"40B9FC33CA29D64F"
+				"4E7F7C4B1E70B567"
+				"1508F043F62A7362"
+			]
+			id: "5A20F8EDBCD36FA4"
+			rewards: [
+				{
+					id: "66B1C384C469FB3B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					count: 2
+					id: "67EDF4171296C364"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:shaft"
+					}
+					type: "item"
+				}
+				{
+					id: "7DAF51F20C3C6227"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:raw_iron_block"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 1.25d
+			tasks: [{
+				id: "5B849F4E002114E7"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:mechanical_mixer"
+				}
+				type: "item"
+			}]
+			title: "¡A mesclar!"
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["12B728041118A8FC"]
+			id: "5224CD1EFABD2FC1"
+			rewards: [
+				{
+					id: "373E3076E29CDAAF"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					count: 3
+					id: "62A7128DF8A1C225"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0F8E03D132B85F81"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "paraglider:spirit_orb"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 1.25d
+			tasks: [{
+				id: "4F1238CE87ABE2F0"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:mechanical_press"
+				}
+				type: "item"
+			}]
+			title: "La Prensa es tardada..."
+			x: -1.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["40B9FC33CA29D64F"]
+			id: "12B728041118A8FC"
+			rewards: [
+				{
+					id: "41BAE661BBFBBB43"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 3
+					id: "47F38D8DDB3ED7FC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+				{
+					id: "1EE020E5244EBBDE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:shaft"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2A2ECE3F3A34127A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:depot"
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["1EE250722CE55607"]
+			id: "4A846226DF467AF4"
+			rewards: [
+				{
+					id: "378A965E225D71D5"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 12
+					id: "12B97B7817BEFC66"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:andesite"
+					}
+					random_bonus: 8
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 2L
+				id: "7CADFF4BF617D4BB"
+				item: {
+					Count: 2
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:hand_crank"
+				}
+				type: "item"
+			}]
+			title: "Como en los viejos tiempos"
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["40B9FC33CA29D64F"]
+			description: ["Con este bloque funcional puedes hacer que los ejes cambien de direccion"]
+			id: "30BFA9FD7BB058A4"
+			rewards: [
+				{
+					id: "29A5F37765583224"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 2
+					id: "6E0D332902C0CC2F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:cogwheel"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1AE0A5056507E0A0"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:shaft"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "¿Como funciona?"
+			tasks: [{
+				id: "66C5F4AFD882ABAF"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:gearbox"
+				}
+				type: "item"
+			}]
+			title: "Cambio de Direccion"
+			x: 1.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["40B9FC33CA29D64F"]
+			id: "1B3B99F7033BB865"
+			rewards: [
+				{
+					id: "0D22CDB33D0B8FCC"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 3
+					id: "67055AD7B65BE342"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0FD6BDDB6A849C77"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_casing"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "215AA6DD3A0F4576"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:water_wheel"
+				}
+				type: "item"
+			}]
+			title: "Estres Hidraulico"
+			x: 3.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["1B3B99F7033BB865"]
+			id: "4E5E21554C984A71"
+			rewards: [
+				{
+					id: "293324EF471EDF51"
+					type: "xp"
+					xp: 150
+				}
+				{
+					count: 5
+					id: "1870A1CFCD4D469C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:raw_iron"
+					}
+					random_bonus: 7
+					type: "item"
+				}
+				{
+					count: 2
+					id: "187B7AB89BD37CEB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "born_in_chaos_v1:pileof_dark_metal"
+					}
+					type: "item"
+				}
+				{
+					id: "675FAD616BE76EE3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "sophisticatedbackpacks:tank_upgrade"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "772F02076E9BC4EF"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:large_water_wheel"
+				}
+				type: "item"
+			}]
+			title: "¡Mas capacidad de Estres!"
+			x: 4.0d
+			y: -9.5d
+		}
+		{
+			dependencies: [
+				"4E5E21554C984A71"
+				"1B3B99F7033BB865"
+			]
+			dependency_requirement: "one_completed"
+			description: ["Intenta hacer que gire la &a&lRueda Hidraulica&r poniendola en &l&bAgua"]
+			id: "3D440E4178AE43CE"
+			optional: true
+			rewards: [
+				{
+					id: "7F9E6FFFF98F799A"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 3
+					id: "7282C4E1A6C0ACAB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_casing"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7F6E52DB3CB18AF3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_block"
+					}
+					type: "item"
+				}
+				{
+					count: 7
+					id: "5EB54FF1832DE4DF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "¿Como Obtenerlo?"
+			tasks: [{
+				advancement: "create:water_wheel"
+				criterion: ""
+				id: "7438CA7EDE007323"
+				type: "advancement"
+			}]
+			title: "¡Has que Fluya!"
+			x: 3.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["1A3C403384F20B44"]
+			id: "4E7F7C4B1E70B567"
+			rewards: [
+				{
+					id: "170E67E7AF200E87"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 2
+					id: "4F006D5C6B5BACDE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "1B2F1DAAFC6B416E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_casing"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "51A167EB02A82ED8"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:whisk"
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -6.75d
+		}
+		{
+			dependencies: ["5224CD1EFABD2FC1"]
+			hide_dependency_lines: true
+			id: "27387919B377F745"
+			rewards: [
+				{
+					id: "7B38B3DE794EEC75"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 3
+					id: "6FC92014016AD40F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "1ACB7968417D5D91"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:copper_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0BCAE969343BD0DF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "rustic_engineer:solarite_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				count: 3L
+				id: "387A714002DDF94C"
+				item: {
+					Count: 3
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:copper_sheet"
+				}
+				type: "item"
+			}]
+			x: -9.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["5224CD1EFABD2FC1"]
+			hide_dependency_lines: true
+			id: "3CF38B87317BF654"
+			rewards: [
+				{
+					id: "17607C0444C369BB"
+					type: "xp"
+					xp: 150
+				}
+				{
+					count: 3
+					id: "6252F36ACFE44AB5"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "614A0DD92E69D570"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "61884B67708312A2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				count: 3L
+				id: "1E4C5C93E8BDD1C4"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:brass_sheet"
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["5224CD1EFABD2FC1"]
+			id: "1A3C403384F20B44"
+			rewards: [
+				{
+					id: "7D5857B93CFFDCE7"
+					type: "xp"
+					xp: 125
+				}
+				{
+					count: 3
+					id: "08A2D7AF73404D42"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "4D8C5288C7CD0EF3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				count: 3L
+				id: "4D821E0A40531A83"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:iron_sheet"
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["5224CD1EFABD2FC1"]
+			hide_dependency_lines: true
+			id: "26972CAB3FF37A6B"
+			rewards: [
+				{
+					id: "0B6D59AF9B01E17D"
+					type: "xp"
+					xp: 125
+				}
+				{
+					count: 3
+					id: "67BD208D0399CD30"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "4E5A80B4492C8380"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				count: 3L
+				id: "55C6A20F6E732D76"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:golden_sheet"
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["1A3C403384F20B44"]
+			id: "3DBEC32047AB8970"
+			rewards: [
+				{
+					id: "1A7AA91CFEBE67B8"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 5
+					id: "141ACF2480650FCD"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "03812F9FF61BD242"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:empty_blaze_burner"
+				}
+				type: "item"
+			}]
+			title: "¿Y este artefacto?"
+			x: -2.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["3DBEC32047AB8970"]
+			description: ["Puedes atrapar a un &e&lBlaze&r tocando &a&lClick Derecho"]
+			id: "15DFF3736777C0C1"
+			rewards: [
+				{
+					id: "31AC455E41DE4104"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 2
+					id: "7A6BF3BA1804C80C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "332C5AF63D4CF531"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:blaze_rod"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2906FBDCB03E2775"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:blaze_powder"
+					}
+					type: "item"
+				}
+				{
+					id: "146B41D04493E881"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:scroll"
+						tag: {
+							ISB_Spells: {
+								data: [{
+									id: "irons_spellbooks:firebolt"
+									index: 0
+									level: 1
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			subtitle: "¿Como Funciona?"
+			tasks: [{
+				id: "3E157928DEF61E07"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:blaze_burner"
+				}
+				type: "item"
+			}]
+			title: "¿¡Atrape un Blaze!?"
+			x: -1.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["1A3C403384F20B44"]
+			hide_dependency_lines: true
+			id: "537AEDA5D5CB0546"
+			rewards: [
+				{
+					id: "601AC0D74EAD6814"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 2
+					id: "0CE30D5A81B3F0AC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "503AB38BD79B2881"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_casing"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "2A97A58C11E7CDFA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:mechanical_saw"
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["1A3C403384F20B44"]
+			hide_dependency_lines: true
+			id: "40FBD8538D5BF8EE"
+			rewards: [
+				{
+					id: "1CFB63ABDF78E950"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 3
+					id: "29F8C17E98A169E0"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 8
+					id: "590498DBB25DBB3C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farmersdelight:vegetable_soup"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "7600F4AA4F35D808"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:mechanical_plough"
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -11.5d
+		}
+		{
+			dependencies: ["1A3C403384F20B44"]
+			hide_dependency_lines: true
+			id: "00F73CA0228D3C9D"
+			rewards: [
+				{
+					id: "05983394054FDC30"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 12
+					id: "35AD6F79E28ECF88"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farmersdelight:cooked_rice"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6B52DE86774609D1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "33748B30F7D2D174"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "11CA82D3AE516219"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:mechanical_harvester"
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["1A3C403384F20B44"]
+			hide_dependency_lines: true
+			id: "62578E95FD5E0B21"
+			rewards: [
+				{
+					id: "68DF05C95CE5E877"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 5
+					id: "037BF0B9C171FC5F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_casing"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5404D4719F0525E9"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:gearbox"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5FBD5F5DE9FA377F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_block"
+					}
+					type: "item"
+				}
+				{
+					id: "3069CB019AEAA73F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_funnel"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				count: 2L
+				id: "34AA2FD39E4D7CF0"
+				item: {
+					Count: 3
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:item_vault"
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["69BA428022918CBB"]
+			id: "5E59DC5933AB7379"
+			rewards: [
+				{
+					id: "71D130323C254D14"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 2
+					id: "1C62FCE608A12080"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:fluid_pipe"
+					}
+					type: "item"
+				}
+				{
+					id: "1A8C9330CB1F873D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:smart_fluid_pipe"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 5L
+				id: "1C9C9F39BB705F7C"
+				item: {
+					Count: 5
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:fluid_valve"
+				}
+				type: "item"
+			}]
+			x: -11.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["1A3C403384F20B44"]
+			id: "615208A43D5277F6"
+			rewards: [
+				{
+					id: "4E880254E49E90EE"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 2
+					id: "120D586E53FC695A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:shaft"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "2930443A9F587166"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6FDAF18FA378CBE4"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:propeller"
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["1A3C403384F20B44"]
+			id: "7A0564334593975A"
+			rewards: [
+				{
+					id: "774256656DE751C1"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					id: "638C1057C088B8F6"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:mechanical_piston"
+					}
+					type: "item"
+				}
+				{
+					id: "2D2AECE537A860ED"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_block"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "5590EFA7DD5D79B1"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:super_glue"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["615208A43D5277F6"]
+			id: "152A4C8C3DF44860"
+			rewards: [
+				{
+					id: "4A6BA0E5B6FD3B22"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "358CEE2BA6C712FC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_block"
+					}
+					type: "item"
+				}
+				{
+					id: "713D90DBE16477DE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:lava_bucket"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "4FFA96A031799F6B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:encased_fan"
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -5.25d
+		}
+		{
+			dependencies: ["1A3C403384F20B44"]
+			id: "15664013CBC922E7"
+			rewards: [
+				{
+					id: "16471F1339C5E48E"
+					type: "xp"
+					xp: 150
+				}
+				{
+					count: 7
+					id: "434CCBCB79872577"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:quartz"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "661F0DCF463BA54C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:sand_paper"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "44886524304DF6F0"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:electron_tube"
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: -9.0d
+		}
+		{
+			description: [
+				"¡Fue un gran placer contribuir con ustedes &dPERFECTION&r!"
+				""
+				"Es mi primera vez haciendo unas misiones para un modpack grande, asi que estoy bastante agradecido C:"
+				""
+				"&cCurse&8&lForge:&r &l&biVansMODDED"
+				"&dTik&8Tok:&r &l&bivans_of"
+				""
+				"&eDisfruten este modpack "
+				"&8&o&l(ATT: iVansOFF)"
+			]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "create:clipboard"
+			}
+			id: "6A35E34200BFF49A"
+			rewards: [{
+				id: "0116EDB34B111B9C"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "Creditos: iVansMODDED"
+			tasks: [{
+				id: "4525EF8FE3ACAE69"
+				title: "Credits / Creditos"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["26972CAB3FF37A6B"]
+			id: "1A548048F1057131"
+			rewards: [
+				{
+					id: "6D286E6CE67B0E12"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 5
+					id: "2E461B203E899A98"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:copper_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4DFA39000BAFEECF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3247E9E09F0102C7"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:steam_engine"
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["26972CAB3FF37A6B"]
+			id: "084D40D70D243797"
+			rewards: [
+				{
+					id: "68CDD47B0111F50F"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 3
+					id: "72BB2EBEE95A80EC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:copper_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5A82DD928898828F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:shaft"
+					}
+					type: "item"
+				}
+				{
+					id: "0AA016ACDFFDB8ED"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:large_cogwheel"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "68289CB59CEC07B3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:weighted_ejector"
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["52F7353741378326"]
+			id: "27375331F5FB2AD2"
+			rewards: [
+				{
+					id: "6195318E2F6D63DD"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 5
+					id: "26E5D2575F4C1641"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:golden_sheet"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "69D079A9D65B1D8B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:brass_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6FE1C28BE1DF5F88"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:cogwheel"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0F242E57629A85C6"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:large_cogwheel"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "57A5CAF33234F857"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:mechanical_arm"
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			description: [
+				"Para empezar con el Mod &6&lCreate&r pueden seguir las misiones o bien puedes ver videos de &cYoutube&r"
+				""
+				"&a&oToca aqui para empezar:"
+				"{ \"text\": \"Primera Mision\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"1EE250722CE55607\" } }"
+				""
+				"¡Estas misiones estan hechas de forma mas &aSimple&r y &aEntendible&r para que no sea tan &cFrustrante&r, si quieren hacer mecanismos complicados u otras maquinas, usen &cTutoriales&r!"
+			]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "patchouli:guide_book"
+				tag: {
+					"patchouli:book": "lexicon:lexicon"
+				}
+			}
+			id: "048B49E38C15B93B"
+			rewards: [{
+				count: 5
+				id: "064AEA86FDC0A582"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			subtitle: "Información Importante"
+			tasks: [{
+				id: "553E240F88EEC425"
+				title: "FAQ"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3CF38B87317BF654"]
+			id: "6EE7DA9774A5011F"
+			rewards: [
+				{
+					id: "428D5B77FE79D24E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					count: 3
+					id: "15E89F147A6A1947"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:rose_quartz"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 3L
+				id: "1BD43EB96CE91D5D"
+				item: {
+					Count: 3
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:smart_fluid_pipe"
+				}
+				type: "item"
+			}]
+			x: -6.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3CF38B87317BF654"]
+			id: "004CCD93DF37CF51"
+			rewards: [
+				{
+					id: "320D995FE112ED0F"
+					type: "xp"
+					xp: 150
+				}
+				{
+					count: 5
+					id: "1FF522B255E8EADA"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:zinc_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "673AC48892C98198"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:brass_hand"
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["004CCD93DF37CF51"]
+			id: "4B8027076272E1E7"
+			rewards: [
+				{
+					id: "2F982237DA86685F"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "1E626B62B76D4E14"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:precision_mechanism"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "7902E34BEA15D119"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:brass_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "10BDAA7583F39975"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:extendo_grip"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["004CCD93DF37CF51"]
+			id: "2E485005C78EACA2"
+			rewards: [
+				{
+					id: "5C754B843C6570A3"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					id: "31A3672B8B478977"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:polished_rose_quartz"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5E1B12EA332E376A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:brass_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "4D700A4D35F9C0D8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:zinc_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4B9E9CD03C10FBBA"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:copper_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "096F7BB5ABB845F3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:deployer"
+				}
+				type: "item"
+			}]
+			x: -6.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["27387919B377F745"]
+			id: "3F5B56A011BD3484"
+			rewards: [
+				{
+					id: "1D69EA4CBC135016"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 2
+					id: "237110934C274DC7"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:copper_casing"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 5L
+				id: "4DB8F31B67D7ABA0"
+				item: {
+					Count: 5
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:fluid_tank"
+				}
+				type: "item"
+			}]
+			x: -9.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["27387919B377F745"]
+			id: "69BA428022918CBB"
+			rewards: [
+				{
+					id: "3C62BB6471409805"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					count: 3
+					id: "2D836A01877ECA66"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:zinc_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "694E47A1A5BD39C7"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:copper_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "2773F2AB022F8D74"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:copper_valve_handle"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "276A65B56BE51E8F"
+				item: {
+					Count: 8
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:fluid_pipe"
+				}
+				type: "item"
+			}]
+			x: -10.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["5713D786444D0957"]
+			id: "447F5BFFCB6CB45B"
+			rewards: [
+				{
+					id: "139CEF3E4D6DEBB7"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 5
+					id: "20B674B6EB5365D3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:shaft"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "62AB45A335D3EA96"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:cogwheel"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "210F21C49271256F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:large_cogwheel"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "79758991D14FDFD0"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:copper_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0AC04B134B740223"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:hose_pulley"
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["26972CAB3FF37A6B"]
+			description: [
+				"usando un montaje secuenciado tendras que meter &e&l1x Lamina de Oro&r."
+				""
+				"&a&n1er Paso:&r"
+				"Tendras que usar &l&a3x Desplegador&r"
+				""
+				"&a&n2do Paso:&r"
+				"Primero tendras que pasar la &e&lLamina de Oro&r a un &a&lDesplegador&r con un &e&l1x Engranaje&r, despues por un &e&l1x Engranaje Grande&r y por ultimo &e&l1x Pepita de Hierro&r"
+				""
+				"&a&n3cer Paso:&r"
+				"Has este procedimiento 5x Veces. Tiene una probabilidad del &e&o80%&r de darte &e&l1x Mecanismo de Precision&r, y el &c&o20%&r de darte &4&lBasura Aleatoria"
+			]
+			id: "7B5A64BCE1B28AD4"
+			rewards: [{
+				id: "729798EAFD5E8168"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			subtitle: "¿Como Obtenerlo?"
+			tasks: [{
+				id: "3B2F422CC888EBDB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:precision_mechanism"
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["6F652991D20D9BC7"]
+			id: "5713D786444D0957"
+			rewards: [
+				{
+					id: "67FDFCCC2F4EE1B2"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					count: 3
+					id: "43258E4B4B5DBFCE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:iron_sheet"
+					}
+					type: "item"
+				}
+				{
+					id: "110B3E64507A815C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:copper_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 5L
+					id: "48D08CFD34F83B44"
+					item: {
+						Count: 5
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:copper_casing"
+					}
+					type: "item"
+				}
+				{
+					advancement: "create:copper_casing"
+					criterion: ""
+					id: "312ED79A2C1383EC"
+					title: "Crea Un &aRevestidor de Cobre"
+					type: "advancement"
+				}
+			]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5713D786444D0957"]
+			id: "7B4A67A823889AD7"
+			rewards: [
+				{
+					id: "162C57D30E492FCD"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 3
+					id: "59DC0815A4E35E51"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:bucket"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "09048D2797C2CBA2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_casing"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "42CEE66A4C8DA427"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:copper_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3FDE9FE76BA4D8AF"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:spout"
+				}
+				type: "item"
+			}]
+			title: "Gotea y Gotea"
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5713D786444D0957"]
+			id: "71ACC787FA41A5EA"
+			rewards: [
+				{
+					id: "62A2422C01A6F384"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "4EA9345FB55486FF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:lava_bucket"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "0FCE63BDA2A3E6EB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "paraglider:spirit_orb"
+					}
+					type: "item"
+				}
+				{
+					id: "57A012C6E53F1FFE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:copper_casing"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4F13628FD48DCD67"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:item_drain"
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["642138E3093AA108"]
+			id: "52F7353741378326"
+			rewards: [
+				{
+					id: "68E686CF2DBDBCFF"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "372977C4836F0214"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:brass_hand"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "3E2416C0A66459D7"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:blaze_powder"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 5L
+					id: "2CAF0BDEE14743DC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:brass_casing"
+					}
+					type: "item"
+				}
+				{
+					advancement: "create:brass_casing"
+					criterion: ""
+					id: "17E8AC55A223B305"
+					title: "Crea una &aCaja de Laton"
+					type: "advancement"
+				}
+			]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"35F77E8C3D365E46"
+				"6F652991D20D9BC7"
+			]
+			id: "642138E3093AA108"
+			rewards: [
+				{
+					id: "47EAAA8D12085B06"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 5
+					id: "782C7CFD04DDAA08"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+				{
+					count: 7
+					id: "06E65BD00E86CB74"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:zinc_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "53765FA564CF2969"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:copper_block"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				count: 5L
+				id: "1327765101DF49D9"
+				item: {
+					Count: 5
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:brass_ingot"
+				}
+				type: "item"
+			}]
+			title: "¡Ah! Que caliente..."
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "35F77E8C3D365E46"
+			rewards: [
+				{
+					id: "6785F21C367B7055"
+					type: "xp"
+					xp: 125
+				}
+				{
+					count: 3
+					id: "5CFDC33EB95B2B88"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 5L
+				id: "12DFA59AAAD0A584"
+				item: {
+					Count: 5
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:zinc_ingot"
+				}
+				type: "item"
+			}]
+			title: "Nuevo Lingote... Eh?"
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1EE250722CE55607"]
+			id: "584D7B062D6743E0"
+			rewards: [
+				{
+					id: "2D2E37BBA64B13F0"
+					type: "xp"
+					xp: 150
+				}
+				{
+					count: 4
+					id: "57CC6085D2A95755"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:dried_kelp"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "02E96B968A0DA39D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farmersdelight:kelp_roll"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 3L
+				id: "32A10B8EC710EA66"
+				item: {
+					Count: 3
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:andesite_funnel"
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["1EE250722CE55607"]
+			id: "5189CA0CF4D9161D"
+			rewards: [
+				{
+					id: "668E65C42578A3CF"
+					type: "xp"
+					xp: 175
+				}
+				{
+					count: 5
+					id: "744626CA31628EE1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farmersdelight:kelp_roll"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 2
+					id: "65FBD4E15FC1C1BF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_alloy"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 2L
+				id: "70B694D74F0D8C74"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:andesite_tunnel"
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			id: "6F652991D20D9BC7"
+			rewards: [
+				{
+					id: "5BF24AFFFDA5A358"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 3
+					id: "1CEC2DD20457E0A3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "674B320A4A89132A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:arcane_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 10L
+				id: "19F151EC2C4DBAAA"
+				item: {
+					Count: 5
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:copper_ingot"
+				}
+				type: "item"
+			}]
+			title: "¡Ahora eres mas util!"
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["642138E3093AA108"]
+			id: "0493B709BC678C6D"
+			rewards: [
+				{
+					id: "6201D7E13A45CEEA"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 4
+					id: "56811F73451A3CE0"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:blaze_rod"
+					}
+					type: "item"
+				}
+				{
+					id: "12F6410CCA3D7194"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:blaze_cake"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "472B658E6C86222C"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:brass_tunnel"
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["642138E3093AA108"]
+			id: "7484C4C9C47AE479"
+			rewards: [
+				{
+					id: "4F18B728247602D2"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 10
+					id: "0BEED2662AA0BD6E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farmersdelight:kelp_roll"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5C801BBF8E98E8DF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:blaze_rod"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 2L
+				id: "4E4E101E1764D0D7"
+				item: {
+					Count: 2
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:brass_funnel"
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["52F7353741378326"]
+			id: "4D7D6AE6A7B753E9"
+			rewards: [
+				{
+					id: "2BC83C54CB4D4D1A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 4
+					id: "7F311179D2B37349"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:brass_sheet"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "2587AB69F5F61C38"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:brass_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 5L
+				id: "183CAA43EFCBE89F"
+				item: {
+					Count: 5
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:mechanical_crafter"
+				}
+				type: "item"
+			}]
+			title: "Mesa ¡MAS GRANDE!"
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["27387919B377F745"]
+			id: "3D022AFABC5D62F5"
+			rewards: [
+				{
+					id: "3377FE9984D13004"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					id: "5813B71A09BF7B7A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:copper_block"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "655C53CD0022FAE8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:fluid_pipe"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 3L
+				id: "77EDCA5C5E21ED7F"
+				item: {
+					Count: 3
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:copper_valve_handle"
+				}
+				type: "item"
+			}]
+			x: -10.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["52F7353741378326"]
+			id: "01C8095D2CE2754F"
+			rewards: [
+				{
+					id: "2D08501D644EFD15"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 2
+					id: "0C075C52A6E7D52B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:mechanical_bearing"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "52DED6F712A43F57"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:bar_of_chocolate"
+					}
+					type: "item"
+				}
+				{
+					id: "25F69C428529EC7C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:super_glue"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5D7FAF9F43DA7CCA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:clockwork_bearing"
+				}
+				type: "item"
+			}]
+			title: "Horas y Minutos"
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["52F7353741378326"]
+			id: "37E43414E49D83CA"
+			rewards: [
+				{
+					id: "1CEB11B1CD073889"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 7
+					id: "60F4CE28FF165C88"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+				{
+					id: "01FD4E763E41DBF4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:brass_casing"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "33E22B1DD2EAADDC"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:content_observer"
+				}
+				type: "item"
+			}]
+			title: "Observo y Detecto"
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["52F7353741378326"]
+			id: "1DC5E91A61FE0988"
+			rewards: [
+				{
+					id: "4AFB5F4EC6DBAF66"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 3
+					id: "22FE0DFD85AB940E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:cogwheel"
+					}
+					type: "item"
+				}
+				{
+					count: 7
+					id: "4E97AF73F83C9B9C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:shaft"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "702D126B975BB82A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:brass_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7E3C5496CF405516"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:rotation_speed_controller"
+				}
+				type: "item"
+			}]
+			title: "Control de Velocidad"
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["1A3C403384F20B44"]
+			hide_dependency_lines: true
+			id: "5312BCBC9D1F659A"
+			rewards: [
+				{
+					id: "44FF5040801549A2"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 3
+					id: "2331E5B861ED7B7D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:hopper"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "784D049A8AE897F8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				count: 3L
+				id: "250FB7C487DF9D83"
+				item: {
+					Count: 3
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:chute"
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["1A3C403384F20B44"]
+			hide_dependency_lines: true
+			id: "5BDC7DA55CB5CF04"
+			rewards: [
+				{
+					id: "0108E745E5B57C3D"
+					type: "xp"
+					xp: 175
+				}
+				{
+					id: "7CD583BC5E2CEC86"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:redstone_block"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "68249E4AD9198429"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				count: 2L
+				id: "5A1B725C64C712A3"
+				item: {
+					Count: 2
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:redstone_contact"
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["5312BCBC9D1F659A"]
+			id: "183A941F6AD7FF8C"
+			rewards: [
+				{
+					id: "1A6C7DC6CF6135BC"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 2
+					id: "7E11E3D3D5BFFAB3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_casing"
+					}
+					type: "item"
+				}
+				{
+					id: "20F1F587635307D1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:copper_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "474A3613C98B36D4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:portable_storage_interface"
+					}
+					type: "item"
+				}
+				{
+					id: "3578EC7795B76EAE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:portable_fluid_interface"
+					}
+					type: "item"
+				}
+			]
+			title: "Almacenamiento de Fluidos y Objetos"
+			x: -4.0d
+			y: -13.0d
+		}
+		{
+			dependencies: ["5312BCBC9D1F659A"]
+			id: "4DECD6242C24D7CB"
+			rewards: [
+				{
+					id: "6C0EFC79534C3E12"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "06D4A46B44B3CEB1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:chute"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0CD92D784B961546"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:brass_casing"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2FBB3600F32B1E22"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:smart_chute"
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -13.0d
+		}
+	]
+	title: "&6&lCreate"
+}

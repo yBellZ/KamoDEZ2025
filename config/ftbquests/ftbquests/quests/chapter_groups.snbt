@@ -1,0 +1,7 @@
+{
+	chapter_groups: [
+		{ id: "67C59664C0072494", title: "Historia" }
+		{ id: "284FBAB6D4C07B3C", title: "Misiones" }
+		{ id: "5AFBEBD33EED4DC9", title: "Mods " }
+	]
+}

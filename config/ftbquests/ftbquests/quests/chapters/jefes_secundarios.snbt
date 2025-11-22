@@ -1,0 +1,1130 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "jefes_secundarios"
+	group: "67C59664C0072494"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "endrem:witch_eye"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "60D6A8BDC1B8AD34"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "54504F02F6354AC0"
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:warden"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:warden_spawn_egg"
+				}
+				id: "10A221968405B448"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "7F24E1AE95095005"
+			rewards: [
+				{
+					count: 5
+					id: "64A98C9445AAD97D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "4C8E3A1CD43EF9AB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "betterarcheology:torrent_totem"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "62957943514F24D5"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				entity: "minecraft:elder_guardian"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:elder_guardian_spawn_egg"
+				}
+				id: "408234B142F61287"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "76044BB6EAAFB3F5"
+			rewards: [
+				{
+					count: 3
+					id: "73D133AF6539CC5F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:legendary_ink"
+					}
+					type: "item"
+				}
+				{
+					id: "3F7385BCB82B7314"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 5
+					id: "5111E772E2A15DF6"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "03673E74DA7D1053"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:upgrade_orb"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "irons_spellbooks:dead_king"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "irons_spellbooks:blood_staff"
+				}
+				id: "0D42C6E39CACE7EF"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "1C582F2DEAFE84F1"
+			rewards: [
+				{
+					id: "4940006FD723A99A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4CA1CF3838A62796"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "20E29EC759A8A3DB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:scroll"
+						tag: {
+							ISB_Spells: {
+								data: [{
+									id: "irons_spellbooks:wither_skull"
+									index: 0
+									level: 9
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:wither"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:wither_skeleton_skull"
+				}
+				id: "7BEA15D4D62E6EE4"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "5FB340789152BF2D"
+			rewards: [
+				{
+					id: "205FA462422A8C1E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "born_in_chaos_v1:dark_upgrade"
+					}
+					type: "item"
+				}
+				{
+					id: "12CD1CE8EAC4DB85"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 3
+					id: "6E8366D26C5A8BBC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "48FD3AA03A8A874A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:totem_of_undying"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "born_in_chaos_v1:lord_pumpkinhead_withouta_horse"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "born_in_chaos_v1:lord_pumpkinheads_hat_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "53BD925ED2D5CE26"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			id: "30BBF6152FFD3D8F"
+			rewards: [
+				{
+					count: 5
+					id: "41DE8AFC4F89A695"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "4830FF80BADA2B05"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				entity: "born_in_chaos_v1:missioner"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "born_in_chaos_v1:missionary_hat_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "623C52BA44D36C2D"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			id: "702DBDD4CEB2EFBF"
+			rewards: [
+				{
+					id: "1F85A36D5F1EB93E"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "4FA3B8E6CD5AB3EC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:permafrost_shard"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "69CA5F942524B3A7"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:frozen_bone"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "legendary_monsters:frostbitten_golem"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "legendary_monsters:eye_of_frost"
+				}
+				id: "37827AFF1ABABA59"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			id: "6128619B5CE664AF"
+			rewards: [
+				{
+					count: 2
+					id: "038107A16B047DA9"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "66AD23DDB719B905"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				entity: "legendary_monsters:overgrown_colossus"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "regions_unexplored:clover"
+				}
+				id: "2F5EB20EB3018AA5"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			id: "1E58E6DE21B31D75"
+			rewards: [
+				{
+					count: 2
+					id: "5457F22379522C87"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:ancient_debris"
+					}
+					type: "item"
+				}
+				{
+					id: "26D1E585419711BF"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					count: 2
+					id: "79A7FF817B30298B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "legendary_monsters:lava_eater"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "legendary_monsters:lava_eaters_skin"
+				}
+				id: "58E9AFAB31C5C303"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			id: "0B64BC113FC02D6A"
+			rewards: [
+				{
+					count: 2
+					id: "2C7347DF8954C3CB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "farmersdelight:bone_broth"
+					}
+					type: "item"
+				}
+				{
+					id: "3FC88D80B832385E"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "185392B0251F34CA"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "legendary_monsters:skeletosaurus"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "legendary_monsters:skeletosaurus_egg"
+				}
+				id: "0913484F53063153"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			id: "52F66C6D592B7AD4"
+			rewards: [
+				{
+					count: 5
+					id: "5D7DE544D2A18B72"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:ender_pearl"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "393023D17E1E216B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "1C330D14855422EC"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				entity: "legendary_monsters:warped_fungussus"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:warped_fungus"
+				}
+				id: "5EF02A684206DBBB"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			id: "6192862AA6EAA10E"
+			rewards: [
+				{
+					count: 6
+					id: "2DF9B5A4D4D64E7B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "0740DC24AE1392F7"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 2
+					id: "328E047559704FA6"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:dragonskin"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "legendary_monsters:endersent"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "irons_spellbooks:ender_upgrade_orb"
+				}
+				id: "10980BFA07367921"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "6098A095D9A25B35"
+			rewards: [
+				{
+					id: "0E03A5D884F4EA7B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:shulker_box"
+					}
+					type: "item"
+				}
+				{
+					id: "28714FA2837F988E"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "14EE9A60AEBE3A2C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "legendary_monsters:shulker_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "legendary_monsters:shulker_mimic"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:shulker_box"
+				}
+				id: "1DECEAA40EC9448D"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			id: "2910E8C456375A3E"
+			rewards: [
+				{
+					count: 5
+					id: "7915AB4EC8B0FB61"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "250544D15F3BBBB4"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "luminous_beasts:tree_ent_trophy"
+				}
+				id: "21B0466537BBAD23"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			id: "02895EA97901A0E2"
+			rewards: [
+				{
+					id: "41BFCDD7D01F70B6"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "7153628A4993A692"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "luminous_beasts:hermit_king"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "luminous_beasts:hermit_king_trophy"
+				}
+				id: "4EADF2852A092890"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			id: "5C6AEBA0CAAF6A56"
+			rewards: [
+				{
+					count: 3
+					id: "535017D5B25F0A75"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "06ADEA4083C534EE"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				entity: "luminous_beasts:mummy"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "luminous_beasts:mummy_wraps_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "4C58C9B2BD92A7BB"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			id: "3B3A831F690CF575"
+			rewards: [
+				{
+					id: "71D0929C141B4749"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "1CFDD516822A2B3A"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				entity: "luminous_beasts:sea_viper"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "luminous_beasts:viper_trophy"
+				}
+				id: "552892C6E568AEB8"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			id: "1862A60096388609"
+			rewards: [
+				{
+					count: 3
+					id: "7D4F8E283CBFC932"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "1515EFA890BC488F"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				entity: "luminous_beasts:vile_gator"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "luminous_beasts:vile_gator_spawn_egg"
+				}
+				id: "271AC86524A25097"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			id: "2F397681B5146F99"
+			rewards: [
+				{
+					id: "160B4B146FDD1528"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dragonmounts:dragon_egg"
+						tag: {
+							BlockEntityTag: {
+								Breed: "dragonmounts:fire"
+								id: "dragonmounts:dragon_egg"
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1D50C1D8F2D79B43"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 4
+					id: "42CAAEC936F1252C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "luminous_beasts:phoenix"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "luminous_beasts:phoenix_feather"
+				}
+				id: "083997487373C867"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			id: "2D473BC6BCE66A96"
+			rewards: [
+				{
+					id: "726AE32C8887108B"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 5
+					id: "2D47C2BEA516E29A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "11335AB11E35B497"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:totem_of_undying"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "born_in_chaos_v1:sir_pumpkinhead"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "born_in_chaos_v1:infernal_evil_pumpkin_s"
+				}
+				id: "2CBF36F142FEB291"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			id: "4A0712D898CF01F6"
+			rewards: [
+				{
+					id: "7332D86901AA7DF4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:sniffer_egg"
+					}
+					type: "item"
+				}
+				{
+					id: "6EA4D006531F5DAC"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "162DEA3C169B59AF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "1EE63AA570951D79"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:totem_of_undying"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4B662D6154254DBB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:ancient_remnant"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:remnant_skull"
+				}
+				id: "352CC159BDEF8C18"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: 6.5d
+		}
+	]
+	title: "Jefes Secundarios"
+}

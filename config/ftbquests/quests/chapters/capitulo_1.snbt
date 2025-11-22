@@ -1,0 +1,1172 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "capitulo_1"
+	group: "284FBAB6D4C07B3C"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "cataclysm:flame_eye"
+	}
+	id: "0896C6B7E0D64656"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2B108EE1E5F3B77A"
+			rewards: [
+				{
+					id: "7929AEA8C97DE737"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:leather_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4C0E11901019BAC9"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:leather_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:grass_block"
+				}
+				id: "164123F601B72708"
+				title: "Overworld"
+				type: "dimension"
+			}]
+			title: "este mundo"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "78DD10DB27643AF4"
+			rewards: [
+				{
+					count: 2
+					id: "4FA690A9BB5CB4B3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:potion"
+						tag: {
+							Potion: "minecraft:fire_resistance"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "276C2A6716D3FA12"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:netherrack"
+				}
+				id: "36AFFAC283E58FF4"
+				type: "dimension"
+			}]
+			title: "Nether"
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:end_portal_frame"
+			}
+			id: "2797F25C948D2B34"
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "3FB2946F78AE104A"
+				type: "dimension"
+			}]
+			title: "End"
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2B108EE1E5F3B77A"]
+			description: [
+				"En tiempos antiguos, el Ferrous Wroughtnaut fue uno de los más leales guardianes de una civilización perdida, conocido por su armadura indestructible y su hacha imparable. Su reino floreció en conocimientos y magia, pero sus habitantes comenzaron a temer su propio poder. En un intento desesperado de proteger sus secretos, decidieron sellar al Wroughtnaut en lo profundo de sus templos, encantándolo con un hechizo eterno que lo mantendría en un sueño sin fin, listo para despertar solo cuando alguien perturbara la paz de su tierra."
+				""
+				"Por siglos ha permanecido en silencio, cubierto por polvo y sombra, esperando el momento de alzarse una vez más contra los intrusos. Ahora, aquellos que se atrevan a desafiarlo deben enfrentarse a un ser cuya fuerza ha sido forjada por la paciencia de milenios y la promesa de defender su reino olvidado."
+			]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "0952E32E60C37119"
+			rewards: [
+				{
+					id: "302EF1301A133004"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:iron_spell_book"
+						tag: {
+							ISB_Spells: {
+								data: [ ]
+								maxSpells: 6
+								mustEquip: 1b
+								spellWheel: 1b
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 15
+					id: "5AC08B6441556F97"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "21C1CBB01A66A6CC"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			subtitle: "Ferrous Wroughtnaut: La Leyenda del Caballero de hierro"
+			tasks: [{
+				entity: "mowziesmobs:ferrous_wroughtnaut"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mowziesmobs:wrought_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "1D5F322AC3B19CC1"
+				title: "Caballero de Hierro"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Caballero de hierro"
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2B108EE1E5F3B77A"]
+			description: ["En los confines helados del mundo, donde el invierno nunca termina, Frostmaw yace dormido bajo una capa de hielo milenario. Cuenta la leyenda que esta bestia fue creada por antiguos magos de hielo, quienes le otorgaron el poder del frío eterno para vigilar los secretos ocultos en las montañas nevadas. Su aliento helado puede congelar a cualquiera que se acerque demasiado, y su furia es tan implacable como el invierno mismo. Los pocos que se han enfrentado al Frostmaw hablan de una criatura tan majestuosa como letal, cuyo único propósito es proteger una reliquia que le fue entregada por los magos de hielo."]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "3950219890F2FA9E"
+			rewards: [
+				{
+					count: 10
+					id: "5C5DEC31CF1A6079"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:frozen_bone"
+					}
+					type: "item"
+				}
+				{
+					id: "4E1BE555405B360F"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					id: "0A42B7FA92FCAA2D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "paraglider:stamina_vessel"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Frostmaw: El Guardián de Hielo "
+			tasks: [{
+				entity: "mowziesmobs:frostmaw"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mowziesmobs:ice_crystal"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "79DDC6D96B34FD86"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Frostmaw"
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4C50D970230935ED"]
+			hide_until_deps_complete: true
+			id: "2ADE0AB2039694C9"
+			rewards: [
+				{
+					count: 15
+					id: "49ED0B99B086AB2D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "610761842BFC9EB0"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "2F2EC7380C86F829"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "call_of_yucutan:jade_amulet"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "call_of_yucutan:ah_puch"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "call_of_yucutan:warrior_helmet"
+				}
+				id: "3A240538A2B9C052"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Ah Puch"
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0952E32E60C37119"]
+			hide_until_deps_complete: true
+			id: "17670608DF14E59A"
+			rewards: [
+				{
+					id: "5A2DD36841BF315F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_upgrade_smithing_template"
+					}
+					type: "item"
+				}
+				{
+					id: "1CB45CCB769F5CC1"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+				{
+					id: "7630CA07B6C9C3A6"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "paraglider:heart_container"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "aquamirae:captain_cornelia"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "aquamirae:three_bolt_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "0325326C6C44AA99"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Fantasma Del Capitan Cornelia"
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"17670608DF14E59A"
+				"4C50D970230935ED"
+			]
+			hide_until_deps_complete: true
+			id: "6A8A9912C6B3A30D"
+			rewards: [
+				{
+					count: 5
+					id: "4F0F7D94C76C12BE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "bosses_of_mass_destruction:crystal_fruit"
+					}
+					type: "item"
+				}
+				{
+					id: "40505E956E8AAB4A"
+					type: "xp"
+					xp: 6
+				}
+				{
+					count: 15
+					id: "4E807D728560D814"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "19927A153DA6E08B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "paraglider:spirit_orb"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "bosses_of_mass_destruction:void_blossom"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "bosses_of_mass_destruction:void_thorn"
+				}
+				id: "32D9071816EE0218"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Void Blossom"
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"3950219890F2FA9E"
+				"17670608DF14E59A"
+			]
+			description: [
+				"Hace incontables siglos, cuando la magia aún era joven, un poderoso hechicero buscó trascender los límites de la vida misma. Este mago, obsesionado con la inmortalidad, experimentó con antiguas artes prohibidas, aprendiendo a encadenar su alma en un receptáculo arcano: un phylactery. Con este acto impío, abandonó su humanidad y renació como Lich, un ser cuya existencia es eterna, pero a un costo aterrador."
+				"Se convirtió en el guardián de los secretos prohibidos, acumulando un conocimiento que ningún ser mortal debería poseer. Sin embargo, su poder desbordante atrajo la atención de los magos de la Gran Guerra, quienes, en un intento de detener su locura, sellaron su fortaleza en un rincón olvidado del mundo, donde la realidad se distorsiona y los ecos de los muertos susurran en la oscuridad. Pero el tiempo ha debilitado estos sellos, y ahora su influencia comienza a extenderse nuevamente."
+				"Los pocos que han osado enfrentarse a él cuentan historias de su inmenso poder: puede drenar la vida de sus enemigos, invocar legiones de no-muertos y conjurar hechizos."
+			]
+			hide_until_deps_complete: true
+			id: "149A8417ADB07E51"
+			rewards: [
+				{
+					count: 15
+					id: "6B1BAF1B5BFBEDC2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "343C0C0C78DC7A75"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+				{
+					count: 2
+					id: "6DDB904E830D9F53"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "paraglider:spirit_orb"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Señor de los Condenados"
+			tasks: [{
+				entity: "bosses_of_mass_destruction:lich"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "bosses_of_mass_destruction:soul_star"
+				}
+				id: "7602A6E6097BE5E6"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Lich – El Soberano de la No-Muerte"
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["4C50D970230935ED"]
+			hide_until_deps_complete: true
+			id: "7C4215955F5FE36A"
+			rewards: [
+				{
+					id: "03D6637988F7BFF0"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "3AF8FA8D1C2F2DA4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_upgrade_smithing_template"
+					}
+					type: "item"
+				}
+				{
+					id: "0B68CFA56F3A5586"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "46549B260DFBCB15"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "paraglider:spirit_orb"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "eeeabsmobs:nameless_guardian"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "eeeabsmobs:guardian_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "42132D8437A23E8B"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Nameless guardian"
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3950219890F2FA9E"]
+			hide_until_deps_complete: true
+			id: "1EE43AA6C2492742"
+			rewards: [
+				{
+					count: 5
+					id: "04FC9603F4056656"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "graveyard:dark_iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "68222405EA78E45E"
+					type: "xp"
+					xp: 6
+				}
+				{
+					count: 2
+					id: "34E866B9ADCF1403"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "paraglider:spirit_orb"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "graveyard:lich"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "graveyard:white_bone_staff"
+				}
+				id: "4D5776EBDA8AABB0"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Corrupted Champion"
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["17670608DF14E59A"]
+			hide_until_deps_complete: true
+			id: "606F84425E2AF690"
+			rewards: [
+				{
+					count: 5
+					id: "0423611281682344"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "33B0E3A5A261840B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "311209B672E242AA"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "tmg:ancient_pickaxe_charging"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "13BA7815AF5CFF13"
+					table_id: 764489312589601030L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:abyss_eye"
+				}
+				id: "31030F64DFC67617"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Leviatan"
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["1EE43AA6C2492742"]
+			hide_until_deps_complete: true
+			id: "25464F5CB48B070F"
+			rewards: [
+				{
+					count: 2
+					id: "70EDE9B5CC270104"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6680E06AB983AE2C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1E77139A50EAFBC4"
+					table_id: 764489312589601030L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:maledictus"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:cursed_eye"
+				}
+				id: "3711968D9036D736"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Maledictus"
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7C4215955F5FE36A"]
+			hide_until_deps_complete: true
+			id: "5A615826DC4A68FB"
+			rewards: [
+				{
+					id: "7C7BC55EF89A3DA5"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 4
+					id: "615369EEE4C54F59"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "199503BB792F11B7"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "24B25D8702CC5D68"
+					table_id: 764489312589601030L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:mech_eye"
+				}
+				id: "20D771DAAEEDE38A"
+				type: "kill"
+				value: 1L
+			}]
+			title: "The Harbinger "
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2B108EE1E5F3B77A"]
+			description: [
+				"En tiempos ancestrales, en el corazón de una vasta Sabanas (en la arboleda de umvuthana), nació un ser conocido como Umvuthi, el Espíritu Solar. Este ser emergió por la luz del sol mismo, nacido del primer rayo de amanecer, cuando el sol tocó la tierra por primera vez. Como hijo del sol, Umvuthi tiene la habilidad de controlar y manifestar el poder del sol en su forma más pura y destructiva."
+				"Umvuthi ha sido venerado por aquellos que viven bajo el sol abrasador, pero también temido por su implacable juicio. Se dice que, en tiempos de crisis, los antiguos magos realizaban expediciones  para encontrar su arboleda y obtener su bendición, pero debido a que ya no confía en los humanos aniquilará a todo aquel que pise su dominio. Los que buscan desafiarlo y robar su poder deben enfrentar una fuerza solar que no muestra piedad."
+				"Hoy, Umvuthi sigue siendo un guardián de la luz, un protector imparable del equilibrio entre la tierra y el sol. Quienes se atrevan a pisar en su dominio deberá enfrentarse a la intensidad de su fuego solar, pues no existe sombra que pueda ocultarse de la mirada del Espíritu Solar. "
+			]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "4C50D970230935ED"
+			rewards: [
+				{
+					id: "36552A7AFB39D4C5"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "paraglider:stamina_vessel"
+					}
+					type: "item"
+				}
+				{
+					id: "422BD75784B46351"
+					type: "xp"
+					xp: 300
+				}
+			]
+			subtitle: "Umvuthi, The Sunbird "
+			tasks: [{
+				entity: "mowziesmobs:umvuthi"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mowziesmobs:sol_visage"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "012A9959D90A982B"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Umvuthi, The Sunbird "
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["78DD10DB27643AF4"]
+			hide_until_deps_complete: true
+			id: "5878AAEECA28AA56"
+			rewards: [
+				{
+					id: "6013EF5B99B953E9"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:blaze_spell_book"
+						tag: {
+							ISB_Spells: {
+								data: [ ]
+								maxSpells: 10
+								mustEquip: 1b
+								spellWheel: 1b
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "60FC29BC75378563"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:scroll"
+						tag: {
+							ISB_Spells: {
+								data: [{
+									id: "irons_spellbooks:heartstop"
+									index: 0
+									level: 8
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4F6DE0C13F336769"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7FED2E9F5617E74E"
+					table_id: 131980867340982480L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				entity: "bosses_of_mass_destruction:gauntlet"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "bosses_of_mass_destruction:blazing_eye"
+				}
+				id: "642AA7DD2F0775E8"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Nether Gauntlet"
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["78DD10DB27643AF4"]
+			hide_until_deps_complete: true
+			id: "792E90A3DD01E276"
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:monstrous_eye"
+				}
+				id: "0E37D808DD0ED07E"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Netherite Monstrosity"
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"5878AAEECA28AA56"
+				"792E90A3DD01E276"
+			]
+			id: "15CE35E8E2D8A0A7"
+			tasks: [{
+				entity: "cataclysm:ignis"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:flame_eye"
+				}
+				id: "16814EE5EB9DDA4B"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Ignis"
+			x: -6.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2797F25C948D2B34"]
+			hide_until_deps_complete: true
+			id: "78483F552711A406"
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:dragon_egg"
+				}
+				id: "7451E649CCCAD01F"
+				type: "kill"
+				value: 1L
+			}]
+			title: "EnderDragon"
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["78483F552711A406"]
+			hide_until_deps_complete: true
+			id: "4954397DC853BD80"
+			tasks: [{
+				entity: "cataclysm:ender_guardian"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:void_eye"
+				}
+				id: "1AE7208206610A5C"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Ender Guardian"
+			x: 5.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["63856F58B99195D4"]
+			description: ["—¡Qué bonita joya! parece lo que le ponen a las pulseras en mi mundo, voy a guardarlo por si acaso."]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "306B45F44079AFDA"
+			rewards: [{
+				auto: "enabled"
+				command: "/say —¡Qué bonita joya! parece lo que le ponen a las pulseras en mi mundo, voy a guardarlo por si acaso."
+				id: "60FB23F4D8AB2CFB"
+				type: "command"
+			}]
+			subtitle: "Consigue el evil eye"
+			tasks: [{
+				id: "07C3CCF0A46E3145"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "endrem:evil_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Aojo"
+			x: -7.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["4C60B42AA2738C61"]
+			description: ["—¿Por qué todas estas criaturas tendrán estos raros objetos?, ¿los magos tendrán algo que ver con esto?"]
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "64A6732FE0CBA0A0"
+			rewards: [{
+				auto: "enabled"
+				command: "/say —¿Por qué todas estas criaturas tendrán estos raros objetos?, ¿los magos tendrán algo que ver con esto?"
+				id: "14FC07D5CBF5151C"
+				type: "command"
+			}]
+			subtitle: "Consigue el cold eye"
+			tasks: [{
+				id: "7277F6A9EE7C993B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "endrem:cold_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Congelado"
+			x: -6.0d
+			y: -6.5d
+		}
+	]
+	title: "Jefes principales"
+}

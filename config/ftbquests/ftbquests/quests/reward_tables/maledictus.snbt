@@ -1,0 +1,31 @@
+{
+	id: "0A9C02FAB77C5906"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			count: 2
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "paraglider:stamina_vessel"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "paraglider:heart_container"
+			}
+		}
+	]
+	title: "Maledictus"
+}

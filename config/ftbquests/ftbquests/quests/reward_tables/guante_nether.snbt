@@ -1,0 +1,31 @@
+{
+	id: "01D4E3E64B01D8D0"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "paraglider:heart_container"
+			}
+		}
+		{
+			count: 2
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "paraglider:stamina_vessel"
+			}
+		}
+	]
+	title: "guante nether"
+}

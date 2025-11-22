@@ -1,0 +1,2 @@
+#Wed Nov 19 14:07:25 BRT 2025
+sun_illuminance=60000.0

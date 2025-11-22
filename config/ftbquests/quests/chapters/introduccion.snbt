@@ -1,0 +1,217 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "introduccion"
+	group: "2B71FAAC4E73E28C"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "minecraft:book"
+	}
+	id: "677040C624039F65"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Controles default de acciones del modpack &a(eres libre de cambiarlo a tu gusto)&r"
+				""
+				"- Manten pulsado la tecla &6[C]&r para activar el zoom"
+				""
+				"- Manten pulsado la tecla &6[V]&r para gatear en un espacio 1x1"
+				""
+				"- Presiona la tecla &6[M]&r para mirar el mapa del mundo"
+				""
+				"- Presiona la letra &6[O]&r para desplegar el apartado de Shaders"
+				""
+				"-Presiona la tecla &6[alt]&r para esquivar"
+				""
+				"-Presiona la tecla &6[K]&r para abrir las misiones"
+				""
+				"- &a(NUEVO)&r PRESIONA &6[G]&r PARA ABRIR ARBOL DE HABILIDADES"
+			]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "create:linked_controller"
+			}
+			id: "26E05AB20A8A0A42"
+			rewards: [{
+				id: "253FB7C7C3CFA065"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:written_book"
+					tag: {
+						author: "Angel"
+						pages: [
+							"{\"underlined\":true,\"color\":\"light_purple\",\"text\":\"PERSONAS QUE APOYARON EN LA CREACION DEL MODPACK:\"}"
+							"{\"extra\":[{\"text\":\"Anikiller\\n\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/@izakjii\"},\"text\":\"Izakji\"},{\"color\":\"red\",\"text\":\"\\n\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/@bax_master\"},\"text\":\"BaxMaster\"},{\"text\":\"\\nSebsOficial\\nMegastorm\\n\"},{\"color\":\"light_purple\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.instagram.com/iscarbeats/\"},\"text\":\"iscarbeats\"},{\"text\":\"\\nKeneth\\nScream\\n\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/@angellozano5487\"},\"text\":\"Angel Lozano\"},{\"text\":\"\\n\"},{\"color\":\"black\",\"text\":\"HunterGame\"},{\"text\":\"\\nEivanix\\nDistoupia\"}],\"text\":\"\"}"
+							"{\"extra\":[{\"text\":\"Joshua\\n\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/@aaronjpatrick\"},\"text\":\"Aaron J Patrick\"},{\"text\":\"\\n\"},{\"color\":\"light_purple\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.instagram.com/bunny_liiarz/\"},\"text\":\"Bunny\"},{\"text\":\"\\n\"},{\"text\":\"OwenRubyZ\\n\\nGRACIAS A TODOS POR HACER ESTE PROYECTO POSIBLE.\"}],\"text\":\"\"}"
+						]
+						resolved: 1b
+						title: "Creditos"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Controles Principales"
+			tasks: [{
+				id: "26DE4E6E301C5867"
+				type: "checkmark"
+			}]
+			title: "¿COMO ME MUEVO?"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["26E05AB20A8A0A42"]
+			description: [
+				"&bExplorer compass:&r"
+				""
+				" (Utilizar esta brújula en caso de que no encuentres una estructura ) A lo largo de las misiones se te pedirá buscar diferentes estructuras y biomas, como el modpack es muy grande muchas veces es difícil encontrar ciertas estructuras, si ese es el caso utiliza esta brújula y busca la ubicación que se te pide o bien puedes usar &a/locate&r"
+			]
+			hide_dependent_lines: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "valhelsia_structures:explorers_tent"
+			}
+			id: "259953237DD75251"
+			rewards: [{
+				id: "1266987B7DFC86BD"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "explorerscompass:explorerscompass"
+					tag: { }
+				}
+				type: "item"
+			}]
+			subtitle: "COMO USAR "
+			tasks: [{
+				id: "04CB979965E1CAF1"
+				type: "checkmark"
+			}]
+			title: "BRUJULA DE UN VIAJERO"
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["26E05AB20A8A0A42"]
+			description: [
+				"SE RECOMIENDA &aACTIVAR LOS TRUCOS&r PARA QUE AL MOMENTO DE EJECUTAR LOS COMANDOS NO SALGA UN ERROR EN EL CHAT"
+				""
+				"&6JEI&r: Si presionas la tecla r sobre el objeto en el inventario podrás saber su crafteo o algunos de sus usos"
+				""
+				"&6ITEM PHYSICS&r: Si te agachas o le das clic derecho a un ítem puedes recoger este ítem (si no te gusta esta opcion y quieres que los items se tomen automáticamente borra el mod de item physics)"
+				""
+				"PARA UNA MEJOR EXPERIENCIA ACTIVA EN NARRADOR DE CHAT DE VOZ CON &6CLT + B&r"
+				""
+				"&cDISTANT HORIZONS&r SI QUIERES UTILIZAR DH TENDRAS QUE INSTALARLO MANUALMENTE, DH NO ESTA DENTRO DEL MODPACK POR QUE NO CUALQUIER PC SOPORTA ESTE MOD ASI QUE OPTAMOS POR NO PONERLO DIRECTAMENTE EN EL MODPACK &a(SI VAS A USARLO SE RECOMIENDA PRIMERO PREGENERAR EL MUNDO ALMENOS 1500-3000 BLOQUES ANTES DE EMPEZAR A JUGAR)"
+				"&r"
+				"&eNO LE SPAMEES EL CLIC DERECHO A LAS ENTIDADES QUE SE TE PIDAN EN LAS MISIONES ESTO ARRUINARA TU EXPERIENCIA&r"
+				""
+				"&aALGUNAS MISIONES DE LA HISTORIA TIENEN COMO DEPENDENCIA LAS SECUNDARIAS, ASEGURATE DE HACER LA MAYORIA PARA TENER UNA EXPERIENCIA FLUIDA &r"
+			]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "chiselsandbits:magnifying_glass"
+			}
+			id: "6431BD53901052FB"
+			tasks: [{
+				id: "4602F7B82697B09E"
+				type: "checkmark"
+			}]
+			title: "FUNCIONALIDADES"
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["26E05AB20A8A0A42"]
+			description: [
+				"HOLA VIAJER@ PERMITENOS PRESENTARTE NUESTRO PROYECTO \"KUBE PIXEL STUDIO\""
+				"Hemos trabajado mucho para poder brindarte un &6servicio de host &r calidad-precio este servicio de host lo hemos optimizado muchisimo para que PERFECTION pueda correr sin ningun problema en nuestras maquinas. "
+				""
+				"ademas de parte de &6KUBE PIXEL STUDIO&r estamos ofreciendo un servidor de perfection gratuito abierto al publico como agradecimiento a todas las personas que nos apoyan en patreon te invito a checar todos los beneficios que tenemos para ti, puedes consultarlos ya sea en patreon o en nuestro propio discord."
+				""
+				"&aASI QUE SI ESTAS BUSCANDO UN SERVICIO DE HOST QUE PUEDA SOPORTAR A TODOS TUS AMIGOS YA SABES DONDE ENCONTRARNOS&r "
+				"{image:minecraft:textures/particle/heart.png width:20 height:20 align:center}"
+				""
+				"&nnuestras redes las puedes encontrar en mi canal&r &cAngel Lozano&r"
+			]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "mca:bouquet"
+			}
+			id: "55AC59C7863AA20A"
+			rewards: [
+				{
+					id: "0E241F2A113444A2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:honeyed_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "245DA4D4512F047F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "SERVICIOS DE HOST KUBEPIXEL"
+			tasks: [{
+				id: "274D6B5877B9DFEA"
+				type: "checkmark"
+			}]
+			title: "NUESTRO SERVICIO DE HOST"
+			x: 2.5d
+			y: 0.0d
+		}
+	]
+	title: "Tutorial"
+}

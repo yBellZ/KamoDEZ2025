@@ -1,0 +1,9 @@
+{
+  "local_chat_radius": 50,
+  "global_prefix": "!",
+  "no_one_saw_message": "§l§eВаше сообщение никто не увидел.",
+  "message_formats": {
+    "global": "§l§a[G] §r\u003c{player}\u003e {message}",
+    "local": "§l§e[L] §r\u003c{player}\u003e {message}"
+  }
+}
